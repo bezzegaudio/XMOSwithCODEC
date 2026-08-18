@@ -1,0 +1,1107 @@
+[
+    {
+        "sheet_name": "Main Sheet",
+        "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/XMOS_with_audio_codec.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "C1",
+                "x_position": 182.88,
+                "y_position": 60.96,
+                "rotation": 0
+            },
+            {
+                "reference": "J3",
+                "x_position": 207.01,
+                "y_position": 115.57,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR053",
+                "x_position": 205.74,
+                "y_position": 31.75,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR03",
+                "x_position": 189.23,
+                "y_position": 82.55,
+                "rotation": 0
+            },
+            {
+                "reference": "R5",
+                "x_position": 154.94,
+                "y_position": 77.47,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR051",
+                "x_position": 181.61,
+                "y_position": 130.81,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR07",
+                "x_position": 251.46,
+                "y_position": 91.44,
+                "rotation": 0
+            },
+            {
+                "reference": "D2",
+                "x_position": 200.66,
+                "y_position": 30.48,
+                "rotation": 180
+            },
+            {
+                "reference": "R2",
+                "x_position": 254,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "U2",
+                "x_position": 102.87,
+                "y_position": 63.5,
+                "rotation": 0
+            },
+            {
+                "reference": "R29",
+                "x_position": 191.77,
+                "y_position": 30.48,
+                "rotation": 90
+            },
+            {
+                "reference": "C38",
+                "x_position": 237.49,
+                "y_position": 83.82,
+                "rotation": 0
+            },
+            {
+                "reference": "J2",
+                "x_position": 190.5,
+                "y_position": 115.57,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR02",
+                "x_position": 182.88,
+                "y_position": 67.31,
+                "rotation": 0
+            },
+            {
+                "reference": "R1",
+                "x_position": 245.11,
+                "y_position": 52.07,
+                "rotation": 0
+            },
+            {
+                "reference": "R7",
+                "x_position": 129.54,
+                "y_position": 49.53,
+                "rotation": 180
+            },
+            {
+                "reference": "U8",
+                "x_position": 222.25,
+                "y_position": 55.88,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": [
+            {
+                "sheet_name": "Reset supervisor",
+                "sheet_file": "../XMOS/resetsupervisor.kicad_sch",
+                "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/resetsupervisor.kicad_sch",
+                "x_position": 38.1,
+                "y_position": 52.6546,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "XU316 POWER pins",
+                "sheet_file": "../XMOS/xupower.kicad_sch",
+                "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/xupower.kicad_sch",
+                "x_position": 17.78,
+                "y_position": 53.0356,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "USB",
+                "sheet_file": "../XMOS/usb.kicad_sch",
+                "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/usb.kicad_sch",
+                "x_position": 17.78,
+                "y_position": 34.8746,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "Oscillator",
+                "sheet_file": "../XMOS/osc.kicad_sch",
+                "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/osc.kicad_sch",
+                "x_position": 49.53,
+                "y_position": 34.3666,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "PSU",
+                "sheet_file": "../XMOS/psu.kicad_sch",
+                "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/psu.kicad_sch",
+                "x_position": 33.02,
+                "y_position": 34.8746,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "QSPI Flash",
+                "sheet_file": "../XMOS/flashmemory.kicad_sch",
+                "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/flashmemory.kicad_sch",
+                "x_position": 38.1,
+                "y_position": 69.1646,
+                "rotation": 0
+            },
+            {
+                "sheet_name": "CODEC",
+                "sheet_file": "../XMOS/codec.kicad_sch",
+                "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/codec.kicad_sch",
+                "x_position": 17.78,
+                "y_position": 69.1646,
+                "rotation": 0
+            }
+        ]
+    },
+    {
+        "sheet_name": "Reset supervisor",
+        "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/resetsupervisor.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "R14",
+                "x_position": 101.6,
+                "y_position": 109.22,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR031",
+                "x_position": 166.37,
+                "y_position": 102.87,
+                "rotation": 0
+            },
+            {
+                "reference": "R12",
+                "x_position": 120.65,
+                "y_position": 97.79,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR040",
+                "x_position": 101.6,
+                "y_position": 121.92,
+                "rotation": 0
+            },
+            {
+                "reference": "R13",
+                "x_position": 96.52,
+                "y_position": 95.25,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR039",
+                "x_position": 161.29,
+                "y_position": 78.74,
+                "rotation": 0
+            },
+            {
+                "reference": "C35",
+                "x_position": 166.37,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR041",
+                "x_position": 201.93,
+                "y_position": 102.87,
+                "rotation": 0
+            },
+            {
+                "reference": "R16",
+                "x_position": 111.76,
+                "y_position": 82.55,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR054",
+                "x_position": 111.76,
+                "y_position": 86.36,
+                "rotation": 0
+            },
+            {
+                "reference": "R11",
+                "x_position": 106.68,
+                "y_position": 77.47,
+                "rotation": 90
+            },
+            {
+                "reference": "U7",
+                "x_position": 144.78,
+                "y_position": 90.17,
+                "rotation": 0
+            },
+            {
+                "reference": "SW1",
+                "x_position": 194.31,
+                "y_position": 95.25,
+                "rotation": 0
+            },
+            {
+                "reference": "R15",
+                "x_position": 125.73,
+                "y_position": 109.22,
+                "rotation": 180
+            },
+            {
+                "reference": "R10",
+                "x_position": 180.34,
+                "y_position": 90.17,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "XU316 POWER pins",
+        "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/xupower.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "C17",
+                "x_position": 66.04,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR025",
+                "x_position": 66.04,
+                "y_position": 102.87,
+                "rotation": 0
+            },
+            {
+                "reference": "C19",
+                "x_position": 81.28,
+                "y_position": 101.6,
+                "rotation": 0
+            },
+            {
+                "reference": "C20",
+                "x_position": 209.55,
+                "y_position": 102.87,
+                "rotation": 0
+            },
+            {
+                "reference": "C33",
+                "x_position": 68.58,
+                "y_position": 81.28,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR020",
+                "x_position": 143.51,
+                "y_position": 115.57,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR033",
+                "x_position": 198.12,
+                "y_position": 109.22,
+                "rotation": 0
+            },
+            {
+                "reference": "C21",
+                "x_position": 96.52,
+                "y_position": 104.14,
+                "rotation": 0
+            },
+            {
+                "reference": "C22",
+                "x_position": 198.12,
+                "y_position": 105.41,
+                "rotation": 0
+            },
+            {
+                "reference": "C15",
+                "x_position": 35.56,
+                "y_position": 93.98,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR030",
+                "x_position": 179.07,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR035",
+                "x_position": 220.98,
+                "y_position": 104.14,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR036",
+                "x_position": 193.04,
+                "y_position": 137.16,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR014",
+                "x_position": 53.34,
+                "y_position": 78.74,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR019",
+                "x_position": 254,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "C14",
+                "x_position": 254,
+                "y_position": 95.25,
+                "rotation": 0
+            },
+            {
+                "reference": "C24",
+                "x_position": 128.27,
+                "y_position": 109.22,
+                "rotation": 0
+            },
+            {
+                "reference": "C18",
+                "x_position": 220.98,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR023",
+                "x_position": 96.52,
+                "y_position": 107.95,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR022",
+                "x_position": 111.76,
+                "y_position": 110.49,
+                "rotation": 0
+            },
+            {
+                "reference": "C27",
+                "x_position": 179.07,
+                "y_position": 125.73,
+                "rotation": 0
+            },
+            {
+                "reference": "C12",
+                "x_position": 83.82,
+                "y_position": 78.74,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR038",
+                "x_position": 83.82,
+                "y_position": 73.66,
+                "rotation": 180
+            },
+            {
+                "reference": "C34",
+                "x_position": 53.34,
+                "y_position": 83.82,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR024",
+                "x_position": 81.28,
+                "y_position": 105.41,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR026",
+                "x_position": 50.8,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR021",
+                "x_position": 128.27,
+                "y_position": 113.03,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR032",
+                "x_position": 181.61,
+                "y_position": 144.78,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR018",
+                "x_position": 160.02,
+                "y_position": 118.11,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR027",
+                "x_position": 35.56,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "C16",
+                "x_position": 50.8,
+                "y_position": 96.52,
+                "rotation": 0
+            },
+            {
+                "reference": "C32",
+                "x_position": 193.04,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR029",
+                "x_position": 266.7,
+                "y_position": 100.33,
+                "rotation": 0
+            },
+            {
+                "reference": "U2",
+                "x_position": 170.18,
+                "y_position": 78.74,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR037",
+                "x_position": 68.58,
+                "y_position": 76.2,
+                "rotation": 180
+            },
+            {
+                "reference": "C25",
+                "x_position": 143.51,
+                "y_position": 111.76,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR028",
+                "x_position": 175.26,
+                "y_position": 71.12,
+                "rotation": 0
+            },
+            {
+                "reference": "C28",
+                "x_position": 181.61,
+                "y_position": 140.97,
+                "rotation": 0
+            },
+            {
+                "reference": "C26",
+                "x_position": 160.02,
+                "y_position": 114.3,
+                "rotation": 0
+            },
+            {
+                "reference": "FB1",
+                "x_position": 201.93,
+                "y_position": 123.19,
+                "rotation": 90
+            },
+            {
+                "reference": "C13",
+                "x_position": 266.7,
+                "y_position": 95.25,
+                "rotation": 0
+            },
+            {
+                "reference": "C23",
+                "x_position": 111.76,
+                "y_position": 106.68,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR034",
+                "x_position": 209.55,
+                "y_position": 106.68,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "USB",
+        "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/usb.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "#PWR010",
+                "x_position": 123.19,
+                "y_position": 68.58,
+                "rotation": 0
+            },
+            {
+                "reference": "C9",
+                "x_position": 100.33,
+                "y_position": 62.23,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR06",
+                "x_position": 54.61,
+                "y_position": 40.64,
+                "rotation": 0
+            },
+            {
+                "reference": "R4",
+                "x_position": 71.12,
+                "y_position": 62.23,
+                "rotation": 90
+            },
+            {
+                "reference": "C10",
+                "x_position": 123.19,
+                "y_position": 62.23,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR08",
+                "x_position": 96.52,
+                "y_position": 82.55,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR09",
+                "x_position": 100.33,
+                "y_position": 68.58,
+                "rotation": 0
+            },
+            {
+                "reference": "U6",
+                "x_position": 85.09,
+                "y_position": 80.01,
+                "rotation": 90
+            },
+            {
+                "reference": "J1",
+                "x_position": 41.91,
+                "y_position": 69.85,
+                "rotation": 0
+            },
+            {
+                "reference": "F1",
+                "x_position": 74.93,
+                "y_position": 54.61,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR05",
+                "x_position": 80.01,
+                "y_position": 63.5,
+                "rotation": 0
+            },
+            {
+                "reference": "C8",
+                "x_position": 60.96,
+                "y_position": 45.72,
+                "rotation": 0
+            },
+            {
+                "reference": "R3",
+                "x_position": 63.5,
+                "y_position": 59.69,
+                "rotation": 90
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "Oscillator",
+        "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/osc.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "TPOSC1",
+                "x_position": 102.87,
+                "y_position": 66.04,
+                "rotation": 180
+            },
+            {
+                "reference": "C36",
+                "x_position": 76.2,
+                "y_position": 68.58,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR017",
+                "x_position": 88.9,
+                "y_position": 76.2,
+                "rotation": 0
+            },
+            {
+                "reference": "Y2",
+                "x_position": 88.9,
+                "y_position": 62.23,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "PSU",
+        "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/psu.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "C7",
+                "x_position": 106.68,
+                "y_position": 172.72,
+                "rotation": 0
+            },
+            {
+                "reference": "U4",
+                "x_position": 83.82,
+                "y_position": 118.11,
+                "rotation": 0
+            },
+            {
+                "reference": "C6",
+                "x_position": 59.69,
+                "y_position": 172.72,
+                "rotation": 0
+            },
+            {
+                "reference": "C4",
+                "x_position": 59.69,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "C2",
+                "x_position": 64.77,
+                "y_position": 62.23,
+                "rotation": 0
+            },
+            {
+                "reference": "TP0V9+1",
+                "x_position": 121.92,
+                "y_position": 53.34,
+                "rotation": 0
+            },
+            {
+                "reference": "C3",
+                "x_position": 115.57,
+                "y_position": 63.5,
+                "rotation": 0
+            },
+            {
+                "reference": "TP3V3+1",
+                "x_position": 133.35,
+                "y_position": 110.49,
+                "rotation": 0
+            },
+            {
+                "reference": "R17",
+                "x_position": 107.95,
+                "y_position": 74.93,
+                "rotation": 0
+            },
+            {
+                "reference": "TP1V8+1",
+                "x_position": 133.35,
+                "y_position": 153.67,
+                "rotation": 0
+            },
+            {
+                "reference": "C5",
+                "x_position": 106.68,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR011",
+                "x_position": 83.82,
+                "y_position": 138.43,
+                "rotation": 0
+            },
+            {
+                "reference": "L1",
+                "x_position": 100.33,
+                "y_position": 57.15,
+                "rotation": 90
+            },
+            {
+                "reference": "D1",
+                "x_position": 170.18,
+                "y_position": 52.07,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR056",
+                "x_position": 71.12,
+                "y_position": 85.09,
+                "rotation": 0
+            },
+            {
+                "reference": "R9",
+                "x_position": 107.95,
+                "y_position": 63.5,
+                "rotation": 0
+            },
+            {
+                "reference": "U5",
+                "x_position": 83.82,
+                "y_position": 161.29,
+                "rotation": 0
+            },
+            {
+                "reference": "C30",
+                "x_position": 133.35,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "U3",
+                "x_position": 77.47,
+                "y_position": 54.61,
+                "rotation": 0
+            },
+            {
+                "reference": "R28",
+                "x_position": 160.02,
+                "y_position": 52.07,
+                "rotation": 90
+            },
+            {
+                "reference": "C29",
+                "x_position": 160.02,
+                "y_position": 129.54,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR01",
+                "x_position": 64.77,
+                "y_position": 73.66,
+                "rotation": 0
+            },
+            {
+                "reference": "C37",
+                "x_position": 160.02,
+                "y_position": 171.45,
+                "rotation": 0
+            },
+            {
+                "reference": "C31",
+                "x_position": 133.35,
+                "y_position": 172.72,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR055",
+                "x_position": 86.36,
+                "y_position": 85.09,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR04",
+                "x_position": 115.57,
+                "y_position": 72.39,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR012",
+                "x_position": 83.82,
+                "y_position": 181.61,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR013",
+                "x_position": 107.95,
+                "y_position": 80.01,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR052",
+                "x_position": 177.8,
+                "y_position": 54.61,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "QSPI Flash",
+        "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/flashmemory.kicad_sch",
+        "paper": {
+            "paper_height": 210,
+            "paper_width": 297
+        },
+        "symbols": [
+            {
+                "reference": "R6",
+                "x_position": 59.69,
+                "y_position": 74.93,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR015",
+                "x_position": 76.2,
+                "y_position": 110.49,
+                "rotation": 0
+            },
+            {
+                "reference": "C11",
+                "x_position": 101.6,
+                "y_position": 91.44,
+                "rotation": 0
+            },
+            {
+                "reference": "U1",
+                "x_position": 73.66,
+                "y_position": 90.17,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    },
+    {
+        "sheet_name": "CODEC",
+        "sheet_path": "/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/../XMOS/codec.kicad_sch",
+        "paper": {
+            "paper_height": 297,
+            "paper_width": 420
+        },
+        "symbols": [
+            {
+                "reference": "C39",
+                "x_position": 193.04,
+                "y_position": 50.8,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR043",
+                "x_position": 182.88,
+                "y_position": 59.69,
+                "rotation": 0
+            },
+            {
+                "reference": "R26",
+                "x_position": 127,
+                "y_position": 106.68,
+                "rotation": 270
+            },
+            {
+                "reference": "R23",
+                "x_position": 288.29,
+                "y_position": 91.44,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR044",
+                "x_position": 226.06,
+                "y_position": 59.69,
+                "rotation": 0
+            },
+            {
+                "reference": "R18",
+                "x_position": 121.92,
+                "y_position": 60.96,
+                "rotation": 0
+            },
+            {
+                "reference": "J3_IN1",
+                "x_position": 64.77,
+                "y_position": 99.06,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR045",
+                "x_position": 137.16,
+                "y_position": 80.01,
+                "rotation": 0
+            },
+            {
+                "reference": "C40",
+                "x_position": 210.82,
+                "y_position": 50.8,
+                "rotation": 90
+            },
+            {
+                "reference": "C43",
+                "x_position": 220.98,
+                "y_position": 106.68,
+                "rotation": 0
+            },
+            {
+                "reference": "R25",
+                "x_position": 105.41,
+                "y_position": 99.06,
+                "rotation": 180
+            },
+            {
+                "reference": "U9",
+                "x_position": 201.93,
+                "y_position": 87.63,
+                "rotation": 0
+            },
+            {
+                "reference": "R24",
+                "x_position": 127,
+                "y_position": 93.98,
+                "rotation": 270
+            },
+            {
+                "reference": "C50",
+                "x_position": 118.11,
+                "y_position": 106.68,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR050",
+                "x_position": 306.07,
+                "y_position": 80.01,
+                "rotation": 0
+            },
+            {
+                "reference": "C46",
+                "x_position": 270.51,
+                "y_position": 71.12,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR049",
+                "x_position": 270.51,
+                "y_position": 77.47,
+                "rotation": 0
+            },
+            {
+                "reference": "#PWR046",
+                "x_position": 220.98,
+                "y_position": 113.03,
+                "rotation": 0
+            },
+            {
+                "reference": "J4_OUT1",
+                "x_position": 320.04,
+                "y_position": 71.12,
+                "rotation": 180
+            },
+            {
+                "reference": "#PWR016",
+                "x_position": 196.85,
+                "y_position": 123.19,
+                "rotation": 0
+            },
+            {
+                "reference": "C47",
+                "x_position": 280.67,
+                "y_position": 86.36,
+                "rotation": 90
+            },
+            {
+                "reference": "C41",
+                "x_position": 190.5,
+                "y_position": 57.15,
+                "rotation": 90
+            },
+            {
+                "reference": "R20",
+                "x_position": 264.16,
+                "y_position": 66.04,
+                "rotation": 270
+            },
+            {
+                "reference": "#PWR048",
+                "x_position": 270.51,
+                "y_position": 97.79,
+                "rotation": 0
+            },
+            {
+                "reference": "C44",
+                "x_position": 232.41,
+                "y_position": 106.68,
+                "rotation": 0
+            },
+            {
+                "reference": "R8",
+                "x_position": 124.46,
+                "y_position": 60.96,
+                "rotation": 0
+            },
+            {
+                "reference": "R22",
+                "x_position": 264.16,
+                "y_position": 86.36,
+                "rotation": 270
+            },
+            {
+                "reference": "C45",
+                "x_position": 280.67,
+                "y_position": 66.04,
+                "rotation": 90
+            },
+            {
+                "reference": "#PWR047",
+                "x_position": 97.79,
+                "y_position": 119.38,
+                "rotation": 0
+            },
+            {
+                "reference": "C49",
+                "x_position": 118.11,
+                "y_position": 93.98,
+                "rotation": 90
+            },
+            {
+                "reference": "C42",
+                "x_position": 215.9,
+                "y_position": 57.15,
+                "rotation": 90
+            },
+            {
+                "reference": "C48",
+                "x_position": 270.51,
+                "y_position": 91.44,
+                "rotation": 180
+            },
+            {
+                "reference": "R21",
+                "x_position": 288.29,
+                "y_position": 71.12,
+                "rotation": 0
+            },
+            {
+                "reference": "R27",
+                "x_position": 97.79,
+                "y_position": 111.76,
+                "rotation": 180
+            },
+            {
+                "reference": "R19",
+                "x_position": 125.73,
+                "y_position": 78.74,
+                "rotation": 0
+            }
+        ],
+        "sheet_files": []
+    }
+]

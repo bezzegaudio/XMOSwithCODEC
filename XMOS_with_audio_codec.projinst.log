@@ -1,0 +1,28 @@
+Plugin v0.0.1 running on KiCad 9.0.3 and Python 3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) 
+[Clang 13.0.0 (clang-1300.0.29.30)] on darwin.
+Valid Board found for /Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/XMOS_with_audio_codec.kicad_sch
+7 sheet instances entries in /Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/XMOS_with_audio_codec.kicad_sch
+/Users/greglorincz/Documents/KiCad/Projects/XMOS/resetsupervisor.kicad_pcb doesn't exist
+0 sheet instances entries in /Users/greglorincz/Documents/KiCad/Projects/XMOS/resetsupervisor.kicad_sch
+/Users/greglorincz/Documents/KiCad/Projects/XMOS/xupower.kicad_pcb doesn't exist
+0 sheet instances entries in /Users/greglorincz/Documents/KiCad/Projects/XMOS/xupower.kicad_sch
+/Users/greglorincz/Documents/KiCad/Projects/XMOS/usb.kicad_pcb doesn't exist
+0 sheet instances entries in /Users/greglorincz/Documents/KiCad/Projects/XMOS/usb.kicad_sch
+/Users/greglorincz/Documents/KiCad/Projects/XMOS/osc.kicad_pcb doesn't exist
+0 sheet instances entries in /Users/greglorincz/Documents/KiCad/Projects/XMOS/osc.kicad_sch
+/Users/greglorincz/Documents/KiCad/Projects/XMOS/psu.kicad_pcb doesn't exist
+0 sheet instances entries in /Users/greglorincz/Documents/KiCad/Projects/XMOS/psu.kicad_sch
+/Users/greglorincz/Documents/KiCad/Projects/XMOS/flashmemory.kicad_pcb doesn't exist
+0 sheet instances entries in /Users/greglorincz/Documents/KiCad/Projects/XMOS/flashmemory.kicad_sch
+/Users/greglorincz/Documents/KiCad/Projects/XMOS/codec.kicad_pcb doesn't exist
+0 sheet instances entries in /Users/greglorincz/Documents/KiCad/Projects/XMOS/codec.kicad_sch
+Root item: <wx._dataview.TreeListItem object at 0x144f94d30>
+No Valid Child board for 17599d58-af4f-4b10-9bc7-b8d61e14a24d
+No Valid Child board for 1cdb583b-79da-4fec-b276-50e75e6c66d6
+No Valid Child board for 34881345-4e43-404e-af03-8d1ed94d1816
+No Valid Child board for 63a07957-7f24-43a3-937d-17697a1e7bf2
+No Valid Child board for 85a5111a-5f31-4897-a65d-9bd065669a39
+No Valid Child board for d8988920-6021-4565-8ab2-6ab9ac8ff498
+No Valid Child board for ee5d8a7f-c03a-498e-a9bc-8001dece5e31
+No Valid Child board for 
+Instance is a dead branch: 

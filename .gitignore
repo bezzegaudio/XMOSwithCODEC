@@ -1,0 +1,16 @@
+# KiCad working files
+*.fp-info-cache
+*.kicad_prl
+*-bak
+*-backups/
+
+# Backup files
+*.bak
+*.bck
+*.old
+*.cadbackup
+
+# Autosave files
+*_autosave-*
+*.autosave
+

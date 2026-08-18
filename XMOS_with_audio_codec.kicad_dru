@@ -1,0 +1,6 @@
+(version 1)
+
+(rule "flag vias not 0.5/0.2"
+	(constraint via_diameter (min 0.6mm) (max 0.6mm))
+	(constraint hole_size (min 0.3mm) (max 0.3mm))
+	(condition "A.Type == 'Via'"))

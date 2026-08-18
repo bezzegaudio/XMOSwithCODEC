@@ -1,0 +1,2974 @@
+** Drc report for XMOS_with_audio_codec.kicad_pcb **
+** Created on 2026-08-12T02:17:22+0100 **
+
+** Found 564 DRC violations **
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.0750 mm)
+    Rule: board setup constraints; error
+    @(254.4275 mm, 87.5800 mm): PTH pad S1 [Net-(J1-SHIELD)] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.0750 mm)
+    Rule: board setup constraints; error
+    @(257.6275 mm, 87.5800 mm): PTH pad S1 [Net-(J1-SHIELD)] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.0750 mm)
+    Rule: board setup constraints; error
+    @(254.4275 mm, 78.6800 mm): PTH pad S1 [Net-(J1-SHIELD)] of J1
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(175.7850 mm, 93.2200 mm): PTH pad 1 [X0D41] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(177.0550 mm, 93.2200 mm): PTH pad 2 [X0D42] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(178.3250 mm, 93.2200 mm): PTH pad 3 [X0D43] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(179.5950 mm, 93.2200 mm): PTH pad 4 [X1D09] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(180.8650 mm, 93.2200 mm): PTH pad 5 [X1D11] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(182.1350 mm, 93.2200 mm): PTH pad 6 [X1D13] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(183.4050 mm, 93.2200 mm): PTH pad 7 [X1D22] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(184.6750 mm, 93.2200 mm): PTH pad 8 [RESET] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(185.9450 mm, 93.2200 mm): PTH pad 9 [5V] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(187.2150 mm, 93.2200 mm): PTH pad 10 [3V3] of J3
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(175.7500 mm, 89.9800 mm): PTH pad 1 [X0D00] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(177.0200 mm, 89.9800 mm): PTH pad 2 [X0D11] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(178.2900 mm, 89.9800 mm): PTH pad 3 [X0D29] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(179.5600 mm, 89.9800 mm): PTH pad 4 [X0D30] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(180.8300 mm, 89.9800 mm): PTH pad 5 [X0D31] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(182.1000 mm, 89.9800 mm): PTH pad 6 [X0D32] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(183.3700 mm, 89.9800 mm): PTH pad 7 [X0D33] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(184.6400 mm, 89.9800 mm): PTH pad 8 [X0D36] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(185.9100 mm, 89.9800 mm): PTH pad 9 [X0D39] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(187.1800 mm, 89.9800 mm): PTH pad 10 [GND] of J2
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(168.2200 mm, 90.6000 mm): PTH pad 1 [1V8] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(168.2200 mm, 91.8700 mm): PTH pad 2 [xSYS2_TMS] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(166.9500 mm, 90.6000 mm): PTH pad 3 [GND] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(166.9500 mm, 91.8700 mm): PTH pad 4 [xSYS2_TCK] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(165.6800 mm, 90.6000 mm): PTH pad 5 [GND] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(165.6800 mm, 91.8700 mm): PTH pad 6 [xSYS2_TDO] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(164.4100 mm, 90.6000 mm): PTH pad 7 [GND] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(164.4100 mm, 91.8700 mm): PTH pad 8 [xSYS2_TDI] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(163.1400 mm, 90.6000 mm): PTH pad 9 [GND] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(163.1400 mm, 91.8700 mm): PTH pad 10 [RESET] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(161.8700 mm, 90.6000 mm): PTH pad 11 [3V3] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(161.8700 mm, 91.8700 mm): PTH pad 12 [XL_DN1] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(160.6000 mm, 90.6000 mm): PTH pad 13 [GND] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(160.6000 mm, 91.8700 mm): PTH pad 14 [XL_DN0] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(159.3300 mm, 90.6000 mm): PTH pad 15 [GND] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(159.3300 mm, 91.8700 mm): PTH pad 16 [XL_UP0] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(158.0600 mm, 90.6000 mm): PTH pad 17 [GND] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(158.0600 mm, 91.8700 mm): PTH pad 18 [XL_UP1] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(156.7900 mm, 90.6000 mm): PTH pad 19 [GND] of U8
+[annular_width]: Annular width (board setup constraints min annular width 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints; error
+    @(156.7900 mm, 91.8700 mm): PTH pad 20 [unconnected-(U8-DEBUG_N-Pad20)] of U8
+[track_dangling]: Track has unconnected end
+    Local override; warning
+    @(236.7000 mm, 84.1000 mm): Track [0V9] on F.Cu, length 1.6971 mm
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.6500 mm)
+    Rule: netclass 'Default'; error
+    @(243.3250 mm, 91.2750 mm): Pad 2 [GND] of Y2 on F.Cu
+    @(241.8750 mm, 91.2750 mm): Pad 3 [OSC] of Y2 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 84.3800 mm): Pad A4 [Net-(C8-Pad2)] of J1 on F.Cu
+    @(254.2525 mm, 83.8800 mm): Pad A5 [Net-(J1-CC1)] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.5124 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 84.3800 mm): Pad A4 [Net-(C8-Pad2)] of J1 on F.Cu
+    @(255.5025 mm, 84.1300 mm): Pad B8 [<no net>] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 83.8800 mm): Pad A5 [Net-(J1-CC1)] of J1 on F.Cu
+    @(254.2525 mm, 83.3800 mm): Pad A6 [D+] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.5124 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 83.8800 mm): Pad A5 [Net-(J1-CC1)] of J1 on F.Cu
+    @(255.5025 mm, 83.6300 mm): Pad B7 [D-] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.5124 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 83.8800 mm): Pad A5 [Net-(J1-CC1)] of J1 on F.Cu
+    @(255.5025 mm, 84.1300 mm): Pad B8 [<no net>] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 82.8800 mm): Pad A7 [D-] of J1 on F.Cu
+    @(254.2525 mm, 82.3800 mm): Pad A8 [<no net>] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 82.3800 mm): Pad A8 [<no net>] of J1 on F.Cu
+    @(254.2525 mm, 81.8800 mm): Pad A9 [Net-(C8-Pad2)] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.5124 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 82.3800 mm): Pad A8 [<no net>] of J1 on F.Cu
+    @(255.5025 mm, 82.1300 mm): Pad B5 [Net-(J1-CC2)] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.5124 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 82.3800 mm): Pad A8 [<no net>] of J1 on F.Cu
+    @(255.5025 mm, 82.6300 mm): Pad B6 [D+] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.5124 mm)
+    Rule: netclass 'Default'; error
+    @(254.2525 mm, 81.8800 mm): Pad A9 [Net-(C8-Pad2)] of J1 on F.Cu
+    @(255.5025 mm, 82.1300 mm): Pad B5 [Net-(J1-CC2)] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(255.5025 mm, 81.6300 mm): Pad B4 [Net-(C8-Pad2)] of J1 on F.Cu
+    @(255.5025 mm, 82.1300 mm): Pad B5 [Net-(J1-CC2)] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(255.5025 mm, 82.1300 mm): Pad B5 [Net-(J1-CC2)] of J1 on F.Cu
+    @(255.5025 mm, 82.6300 mm): Pad B6 [D+] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(255.5025 mm, 83.6300 mm): Pad B7 [D-] of J1 on F.Cu
+    @(255.5025 mm, 84.1300 mm): Pad B8 [<no net>] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(255.5025 mm, 84.1300 mm): Pad B8 [<no net>] of J1 on F.Cu
+    @(255.5025 mm, 84.6300 mm): Pad B9 [Net-(C8-Pad2)] of J1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(157.5000 mm, 79.3250 mm): Pad 3 [Net-(J3_IN1-RING)] of J3_IN1 on F.Cu
+    @(155.8000 mm, 76.3750 mm): Pad 1 [GND] of J4_OUT1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.7000 mm)
+    Rule: netclass 'Default'; error
+    @(241.7000 mm, 86.3500 mm): Pad 1 [Net-(U2A-XIN)] of R5 on F.Cu
+    @(241.7625 mm, 84.1000 mm): Pad 2 [GND] of C26 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.7000 mm)
+    Rule: netclass 'Default'; error
+    @(200.2000 mm, 93.1625 mm): Pad 2 [GND] of C5 on F.Cu
+    @(197.9375 mm, 92.9500 mm): Pad 4 [unconnected-(U4-NC-Pad4)] of U4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(226.4500 mm, 96.4000 mm): Pad 1 [5V] of U3 on F.Cu
+    @(226.4500 mm, 95.9000 mm): Pad 2 [Net-(U3-SW)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.4250 mm)
+    Rule: netclass 'Default'; error
+    @(226.4500 mm, 96.4000 mm): Pad 1 [5V] of U3 on F.Cu
+    @(226.2000 mm, 97.3000 mm): Pad 9 [unconnected-(U3-SS/TR-Pad9)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.1500 mm)
+    Rule: netclass 'Default'; error
+    @(226.4500 mm, 95.9000 mm): Pad 2 [Net-(U3-SW)] of U3 on F.Cu
+    @(226.4500 mm, 95.4000 mm): Pad 3 [GND] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.4250 mm)
+    Rule: netclass 'Default'; error
+    @(226.4500 mm, 95.4000 mm): Pad 3 [GND] of U3 on F.Cu
+    @(227.2000 mm, 94.5000 mm): Pad 4 [unconnected-(U3-FB2-Pad4)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.4250 mm)
+    Rule: netclass 'Default'; error
+    @(226.4500 mm, 95.4000 mm): Pad 3 [GND] of U3 on F.Cu
+    @(226.7000 mm, 94.5000 mm): Pad 5 [Net-(U3-FB)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.4250 mm)
+    Rule: netclass 'Default'; error
+    @(226.4500 mm, 95.4000 mm): Pad 3 [GND] of U3 on F.Cu
+    @(225.7000 mm, 94.5000 mm): Pad 7 [unconnected-(U3-PG-Pad7)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(227.2000 mm, 94.5000 mm): Pad 4 [unconnected-(U3-FB2-Pad4)] of U3 on F.Cu
+    @(226.7000 mm, 94.5000 mm): Pad 5 [Net-(U3-FB)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(226.7000 mm, 94.5000 mm): Pad 5 [Net-(U3-FB)] of U3 on F.Cu
+    @(226.2000 mm, 94.5000 mm): Pad 6 [0V9] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(226.2000 mm, 94.5000 mm): Pad 6 [0V9] of U3 on F.Cu
+    @(225.7000 mm, 94.5000 mm): Pad 7 [unconnected-(U3-PG-Pad7)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(225.7000 mm, 97.3000 mm): Pad 8 [5V] of U3 on F.Cu
+    @(226.2000 mm, 97.3000 mm): Pad 9 [unconnected-(U3-SS/TR-Pad9)] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(226.2000 mm, 97.3000 mm): Pad 9 [unconnected-(U3-SS/TR-Pad9)] of U3 on F.Cu
+    @(226.7000 mm, 97.3000 mm): Pad 10 [5V] of U3 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0000 mm)
+    Rule: board setup constraints hole; error
+    @(226.7000 mm, 97.3000 mm): Pad 10 [5V] of U3 on F.Cu
+    @(227.2000 mm, 97.3000 mm): Pad 11 [GND] of U3 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.6250 mm)
+    Rule: netclass 'Default'; error
+    @(245.1500 mm, 81.1000 mm): Pad 2 [GND] of R3 on F.Cu
+    @(245.2000 mm, 83.2500 mm): Pad 1 [Net-(J1-CC2)] of R4 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.5500 mm)
+    Rule: netclass 'Default'; error
+    @(251.2000 mm, 76.3000 mm): Pad 2 [Net-(D2-A)] of D2 on F.Cu
+    @(251.1500 mm, 73.1000 mm): Pad 2 [Net-(D1-A)] of D1 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.7100 mm)
+    Rule: netclass 'Default'; error
+    @(223.4500 mm, 93.3850 mm): Pad 2 [Net-(U3-FB)] of R9 on F.Cu
+    @(222.6375 mm, 90.9000 mm): Pad 2 [GND] of C12 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.6425 mm)
+    Rule: netclass 'Default'; error
+    @(236.2375 mm, 87.7000 mm): Pad 1 [Net-(U2B-PLL_AVDD)] of C32 on F.Cu
+    @(237.3000 mm, 86.3000 mm): Segment [Net-(U2A-XIN)] on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.6425 mm)
+    Rule: netclass 'Default'; error
+    @(236.2375 mm, 87.7000 mm): Pad 1 [Net-(U2B-PLL_AVDD)] of C32 on F.Cu
+    @(241.4000 mm, 86.3000 mm): Segment [Net-(U2A-XIN)] on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.4000 mm)
+    Rule: netclass 'Default'; error
+    @(239.3625 mm, 87.7000 mm): Pad 2 [GND] of C32 on F.Cu
+    @(241.4000 mm, 86.3000 mm): Segment [Net-(U2A-XIN)] on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(175.7850 mm, 93.2200 mm): PTH pad 1 [X0D41] of J3
+    @(177.0550 mm, 93.2200 mm): PTH pad 2 [X0D42] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(177.0550 mm, 93.2200 mm): PTH pad 2 [X0D42] of J3
+    @(178.3250 mm, 93.2200 mm): PTH pad 3 [X0D43] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(178.3250 mm, 93.2200 mm): PTH pad 3 [X0D43] of J3
+    @(179.5950 mm, 93.2200 mm): PTH pad 4 [X1D09] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(179.5950 mm, 93.2200 mm): PTH pad 4 [X1D09] of J3
+    @(180.8650 mm, 93.2200 mm): PTH pad 5 [X1D11] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(180.8650 mm, 93.2200 mm): PTH pad 5 [X1D11] of J3
+    @(182.1350 mm, 93.2200 mm): PTH pad 6 [X1D13] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(182.1350 mm, 93.2200 mm): PTH pad 6 [X1D13] of J3
+    @(183.4050 mm, 93.2200 mm): PTH pad 7 [X1D22] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(183.4050 mm, 93.2200 mm): PTH pad 7 [X1D22] of J3
+    @(184.6750 mm, 93.2200 mm): PTH pad 8 [RESET] of J3
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(184.6750 mm, 93.2200 mm): PTH pad 8 [RESET] of J3
+    @(185.9450 mm, 93.2200 mm): PTH pad 9 [5V] of J3
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0259 mm)
+    Local override; error
+    @(227.8993 mm, 84.5000 mm): Pad 1 [SI_IO1] of U2 on F.Cu
+    @(227.4247 mm, 84.0255 mm): Pad 60 [WP_IO2] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.8993 mm, 84.5000 mm): Pad 1 [SI_IO1] of U2 on F.Cu
+    @(228.2994 mm, 84.5000 mm): Pad 2 [HLD_RST_IO3] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(228.2994 mm, 84.5000 mm): Pad 2 [HLD_RST_IO3] of U2 on F.Cu
+    @(228.6995 mm, 84.5000 mm): Pad 3 [CS] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0221 mm)
+    Local override; error
+    @(228.6995 mm, 84.5000 mm): Pad 3 [CS] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(228.6995 mm, 84.5000 mm): Pad 3 [CS] of U2 on F.Cu
+    @(229.0995 mm, 84.5000 mm): Pad 4 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.0995 mm, 84.5000 mm): Pad 4 [0V9] of U2 on F.Cu
+    @(229.4995 mm, 84.5000 mm): Pad 5 [Net-(U2A-X0D10)] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.4995 mm, 84.5000 mm): Pad 5 [Net-(U2A-X0D10)] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.4995 mm, 84.5000 mm): Pad 5 [Net-(U2A-X0D10)] of U2 on F.Cu
+    @(229.8996 mm, 84.5000 mm): Pad 6 [X0D00] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.8996 mm, 84.5000 mm): Pad 6 [X0D00] of U2 on F.Cu
+    @(230.2997 mm, 84.5000 mm): Pad 7 [X0D11] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.8996 mm, 84.5000 mm): Pad 6 [X0D00] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(230.2997 mm, 84.5000 mm): Pad 7 [X0D11] of U2 on F.Cu
+    @(230.6997 mm, 84.5000 mm): Pad 8 [3V3] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(230.2997 mm, 84.5000 mm): Pad 7 [X0D11] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(230.6997 mm, 84.5000 mm): Pad 8 [3V3] of U2 on F.Cu
+    @(231.0998 mm, 84.5000 mm): Pad 9 [I2S_DAC_DATA] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0873 mm)
+    Local override; error
+    @(230.6997 mm, 84.5000 mm): Pad 8 [3V3] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.0998 mm, 84.5000 mm): Pad 9 [I2S_DAC_DATA] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.0998 mm, 84.5000 mm): Pad 9 [I2S_DAC_DATA] of U2 on F.Cu
+    @(231.4998 mm, 84.5000 mm): Pad 10 [I2S_RCLK] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.4998 mm, 84.5000 mm): Pad 10 [I2S_RCLK] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.4998 mm, 84.5000 mm): Pad 10 [I2S_RCLK] of U2 on F.Cu
+    @(231.8998 mm, 84.5000 mm): Pad 11 [X1D09] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.8998 mm, 84.5000 mm): Pad 11 [X1D09] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.8998 mm, 84.5000 mm): Pad 11 [X1D09] of U2 on F.Cu
+    @(232.2999 mm, 84.5000 mm): Pad 12 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(232.2999 mm, 84.5000 mm): Pad 12 [0V9] of U2 on F.Cu
+    @(232.7000 mm, 84.5000 mm): Pad 13 [I2S_BCLK] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0221 mm)
+    Local override; error
+    @(232.7000 mm, 84.5000 mm): Pad 13 [I2S_BCLK] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(232.7000 mm, 84.5000 mm): Pad 13 [I2S_BCLK] of U2 on F.Cu
+    @(233.1000 mm, 84.5000 mm): Pad 14 [X1D11] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.1000 mm, 84.5000 mm): Pad 14 [X1D11] of U2 on F.Cu
+    @(233.5000 mm, 84.5000 mm): Pad 15 [unconnected-(U2A-XOUT-Pad15)] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0259 mm)
+    Local override; error
+    @(233.5000 mm, 84.5000 mm): Pad 15 [unconnected-(U2A-XOUT-Pad15)] of U2 on F.Cu
+    @(233.9747 mm, 84.0255 mm): Pad 16 [Net-(U2A-XIN)] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 84.0255 mm): Pad 16 [Net-(U2A-XIN)] of U2 on F.Cu
+    @(233.9747 mm, 83.6254 mm): Pad 17 [1V8] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 83.6254 mm): Pad 17 [1V8] of U2 on F.Cu
+    @(233.9747 mm, 83.2254 mm): Pad 18 [xSYS2_TDI] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 83.2254 mm): Pad 18 [xSYS2_TDI] of U2 on F.Cu
+    @(233.9747 mm, 82.8253 mm): Pad 19 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0221 mm)
+    Local override; error
+    @(233.9747 mm, 83.2254 mm): Pad 18 [xSYS2_TDI] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 82.8253 mm): Pad 19 [0V9] of U2 on F.Cu
+    @(233.9747 mm, 82.4253 mm): Pad 20 [xSYS2_TDO] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 82.4253 mm): Pad 20 [xSYS2_TDO] of U2 on F.Cu
+    @(233.9747 mm, 82.0252 mm): Pad 21 [RESET] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 82.4253 mm): Pad 20 [xSYS2_TDO] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 82.0252 mm): Pad 21 [RESET] of U2 on F.Cu
+    @(233.9747 mm, 81.6252 mm): Pad 22 [Net-(U2B-PLL_AVDD)] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 82.0252 mm): Pad 21 [RESET] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 81.6252 mm): Pad 22 [Net-(U2B-PLL_AVDD)] of U2 on F.Cu
+    @(233.9747 mm, 81.2251 mm): Pad 23 [xSYS2_TMS] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 81.6252 mm): Pad 22 [Net-(U2B-PLL_AVDD)] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0873 mm)
+    Local override; error
+    @(233.9747 mm, 81.2251 mm): Pad 23 [xSYS2_TMS] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 81.2251 mm): Pad 23 [xSYS2_TMS] of U2 on F.Cu
+    @(233.9747 mm, 80.8251 mm): Pad 24 [xSYS2_TCK] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 80.8251 mm): Pad 24 [xSYS2_TCK] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 80.8251 mm): Pad 24 [xSYS2_TCK] of U2 on F.Cu
+    @(233.9747 mm, 80.4250 mm): Pad 25 [unconnected-(U2A-NC-Pad25)] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 80.4250 mm): Pad 25 [unconnected-(U2A-NC-Pad25)] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 80.4250 mm): Pad 25 [unconnected-(U2A-NC-Pad25)] of U2 on F.Cu
+    @(233.9747 mm, 80.0250 mm): Pad 26 [1V8] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 80.0250 mm): Pad 26 [1V8] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 80.0250 mm): Pad 26 [1V8] of U2 on F.Cu
+    @(233.9747 mm, 79.6249 mm): Pad 27 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 79.6249 mm): Pad 27 [0V9] of U2 on F.Cu
+    @(233.9747 mm, 79.2249 mm): Pad 28 [D-] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0221 mm)
+    Local override; error
+    @(233.9747 mm, 79.2249 mm): Pad 28 [D-] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 79.2249 mm): Pad 28 [D-] of U2 on F.Cu
+    @(233.9747 mm, 78.8248 mm): Pad 29 [D+] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.9747 mm, 78.8248 mm): Pad 29 [D+] of U2 on F.Cu
+    @(233.9747 mm, 78.4248 mm): Pad 30 [3V3] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0259 mm)
+    Local override; error
+    @(233.9747 mm, 78.4248 mm): Pad 30 [3V3] of U2 on F.Cu
+    @(233.5000 mm, 77.9502 mm): Pad 31 [1V8] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.5000 mm, 77.9502 mm): Pad 31 [1V8] of U2 on F.Cu
+    @(233.1000 mm, 77.9502 mm): Pad 32 [X1D13] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(233.1000 mm, 77.9502 mm): Pad 32 [X1D13] of U2 on F.Cu
+    @(232.7000 mm, 77.9502 mm): Pad 33 [XL_DN1] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(232.7000 mm, 77.9502 mm): Pad 33 [XL_DN1] of U2 on F.Cu
+    @(232.2999 mm, 77.9502 mm): Pad 34 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0221 mm)
+    Local override; error
+    @(232.7000 mm, 77.9502 mm): Pad 33 [XL_DN1] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(232.2999 mm, 77.9502 mm): Pad 34 [0V9] of U2 on F.Cu
+    @(231.8998 mm, 77.9502 mm): Pad 35 [XL_DN0] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.8998 mm, 77.9502 mm): Pad 35 [XL_DN0] of U2 on F.Cu
+    @(231.4998 mm, 77.9502 mm): Pad 36 [X1D18] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.8998 mm, 77.9502 mm): Pad 35 [XL_DN0] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.4998 mm, 77.9502 mm): Pad 36 [X1D18] of U2 on F.Cu
+    @(231.0998 mm, 77.9502 mm): Pad 37 [X1D19] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.4998 mm, 77.9502 mm): Pad 36 [X1D18] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.0998 mm, 77.9502 mm): Pad 37 [X1D19] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(231.0998 mm, 77.9502 mm): Pad 37 [X1D19] of U2 on F.Cu
+    @(230.6997 mm, 77.9502 mm): Pad 38 [3V3] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0873 mm)
+    Local override; error
+    @(230.6997 mm, 77.9502 mm): Pad 38 [3V3] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(230.6997 mm, 77.9502 mm): Pad 38 [3V3] of U2 on F.Cu
+    @(230.2997 mm, 77.9502 mm): Pad 39 [X1D22] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(230.2997 mm, 77.9502 mm): Pad 39 [X1D22] of U2 on F.Cu
+    @(229.8996 mm, 77.9502 mm): Pad 40 [X0D29] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(230.2997 mm, 77.9502 mm): Pad 39 [X1D22] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.8996 mm, 77.9502 mm): Pad 40 [X0D29] of U2 on F.Cu
+    @(229.4995 mm, 77.9502 mm): Pad 41 [I2S_MCLK] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.8996 mm, 77.9502 mm): Pad 40 [X0D29] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.4995 mm, 77.9502 mm): Pad 41 [I2S_MCLK] of U2 on F.Cu
+    @(229.0995 mm, 77.9502 mm): Pad 42 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.4995 mm, 77.9502 mm): Pad 41 [I2S_MCLK] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(229.0995 mm, 77.9502 mm): Pad 42 [0V9] of U2 on F.Cu
+    @(228.6995 mm, 77.9502 mm): Pad 43 [X0D36] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(228.6995 mm, 77.9502 mm): Pad 43 [X0D36] of U2 on F.Cu
+    @(228.2994 mm, 77.9502 mm): Pad 44 [I2C_SCL] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0221 mm)
+    Local override; error
+    @(228.6995 mm, 77.9502 mm): Pad 43 [X0D36] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(228.2994 mm, 77.9502 mm): Pad 44 [I2C_SCL] of U2 on F.Cu
+    @(227.8993 mm, 77.9502 mm): Pad 45 [I2C_SDA] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0259 mm)
+    Local override; error
+    @(227.8993 mm, 77.9502 mm): Pad 45 [I2C_SDA] of U2 on F.Cu
+    @(227.4247 mm, 78.4248 mm): Pad 46 [I2S_RST] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 78.4248 mm): Pad 46 [I2S_RST] of U2 on F.Cu
+    @(227.4247 mm, 78.8248 mm): Pad 47 [X0D39] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 78.8248 mm): Pad 47 [X0D39] of U2 on F.Cu
+    @(227.4247 mm, 79.2249 mm): Pad 48 [X0D42] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 79.2249 mm): Pad 48 [X0D42] of U2 on F.Cu
+    @(227.4247 mm, 79.6249 mm): Pad 49 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0221 mm)
+    Local override; error
+    @(227.4247 mm, 79.2249 mm): Pad 48 [X0D42] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 79.6249 mm): Pad 49 [0V9] of U2 on F.Cu
+    @(227.4247 mm, 80.0250 mm): Pad 50 [X0D41] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 80.0250 mm): Pad 50 [X0D41] of U2 on F.Cu
+    @(227.4247 mm, 80.4250 mm): Pad 51 [X0D43] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 80.0250 mm): Pad 50 [X0D41] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 80.4250 mm): Pad 51 [X0D43] of U2 on F.Cu
+    @(227.4247 mm, 80.8251 mm): Pad 52 [3V3] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 80.4250 mm): Pad 51 [X0D43] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 80.8251 mm): Pad 52 [3V3] of U2 on F.Cu
+    @(227.4247 mm, 81.2251 mm): Pad 53 [I2S_ADC_DATA] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 80.8251 mm): Pad 52 [3V3] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 81.2251 mm): Pad 53 [I2S_ADC_DATA] of U2 on F.Cu
+    @(227.4247 mm, 81.6252 mm): Pad 54 [X0D30] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0873 mm)
+    Local override; error
+    @(227.4247 mm, 81.2251 mm): Pad 53 [I2S_ADC_DATA] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 81.6252 mm): Pad 54 [X0D30] of U2 on F.Cu
+    @(227.4247 mm, 82.0252 mm): Pad 55 [X0D31] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 81.6252 mm): Pad 54 [X0D30] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 82.0252 mm): Pad 55 [X0D31] of U2 on F.Cu
+    @(227.4247 mm, 82.4253 mm): Pad 56 [X0D32] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 82.0252 mm): Pad 55 [X0D31] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 82.4253 mm): Pad 56 [X0D32] of U2 on F.Cu
+    @(227.4247 mm, 82.8253 mm): Pad 57 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 82.4253 mm): Pad 56 [X0D32] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 82.8253 mm): Pad 57 [0V9] of U2 on F.Cu
+    @(227.4247 mm, 83.2254 mm): Pad 58 [X0D33] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 83.2254 mm): Pad 58 [X0D33] of U2 on F.Cu
+    @(227.4247 mm, 83.6254 mm): Pad 59 [SI_IO0] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0221 mm)
+    Local override; error
+    @(227.4247 mm, 83.2254 mm): Pad 58 [X0D33] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (footprint U2 clearance 0.1000 mm; actual 0.0000 mm)
+    Local override; error
+    @(227.4247 mm, 83.6254 mm): Pad 59 [SI_IO0] of U2 on F.Cu
+    @(227.4247 mm, 84.0255 mm): Pad 60 [WP_IO2] of U2 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 78.4500 mm): Pad 1 [I2C_SCL] of U9 on F.Cu
+    @(190.5000 mm, 79.1000 mm): Pad 2 [I2C_SDA] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 79.1000 mm): Pad 2 [I2C_SDA] of U9 on F.Cu
+    @(190.5000 mm, 79.7500 mm): Pad 3 [I2S_ADC_DATA] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 79.7500 mm): Pad 3 [I2S_ADC_DATA] of U9 on F.Cu
+    @(190.5000 mm, 80.4000 mm): Pad 4 [I2S_RCLK] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 80.4000 mm): Pad 4 [I2S_RCLK] of U9 on F.Cu
+    @(190.5000 mm, 81.0500 mm): Pad 5 [I2S_BCLK] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 81.0500 mm): Pad 5 [I2S_BCLK] of U9 on F.Cu
+    @(190.5000 mm, 81.7000 mm): Pad 6 [I2S_MCLK] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 81.7000 mm): Pad 6 [I2S_MCLK] of U9 on F.Cu
+    @(190.5000 mm, 82.3500 mm): Pad 7 [3V3] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 82.3500 mm): Pad 7 [3V3] of U9 on F.Cu
+    @(190.5000 mm, 83.0000 mm): Pad 8 [GND] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 83.0000 mm): Pad 8 [GND] of U9 on F.Cu
+    @(190.5000 mm, 83.6500 mm): Pad 9 [I2S_MCLK] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 83.6500 mm): Pad 9 [I2S_MCLK] of U9 on F.Cu
+    @(190.5000 mm, 84.3000 mm): Pad 10 [I2S_BCLK] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 84.3000 mm): Pad 10 [I2S_BCLK] of U9 on F.Cu
+    @(190.5000 mm, 84.9500 mm): Pad 11 [I2S_RCLK] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(190.5000 mm, 84.9500 mm): Pad 11 [I2S_RCLK] of U9 on F.Cu
+    @(190.5000 mm, 85.6000 mm): Pad 12 [I2S_DAC_DATA] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(190.5000 mm, 85.6000 mm): Pad 12 [I2S_DAC_DATA] of U9 on F.Cu
+    @(190.5000 mm, 86.2500 mm): Pad 13 [unconnected-(U9-ZEROR-Pad13)] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(190.5000 mm, 86.2500 mm): Pad 13 [unconnected-(U9-ZEROR-Pad13)] of U9 on F.Cu
+    @(190.5000 mm, 86.9000 mm): Pad 14 [unconnected-(U9-ZEROL-Pad14)] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(196.2250 mm, 86.9000 mm): Pad 15 [I2S_RST] of U9 on F.Cu
+    @(196.2250 mm, 86.2500 mm): Pad 16 [GND] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(196.2250 mm, 86.2500 mm): Pad 16 [GND] of U9 on F.Cu
+    @(196.2250 mm, 85.6000 mm): Pad 17 [unconnected-(U9-V_{OUT}R--Pad17)] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(196.2250 mm, 85.6000 mm): Pad 17 [unconnected-(U9-V_{OUT}R--Pad17)] of U9 on F.Cu
+    @(196.2250 mm, 84.9500 mm): Pad 18 [Net-(U9-V_{OUT}R+)] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(196.2250 mm, 84.9500 mm): Pad 18 [Net-(U9-V_{OUT}R+)] of U9 on F.Cu
+    @(196.2250 mm, 84.3000 mm): Pad 19 [unconnected-(U9-V_{OUT}L--Pad19)] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(196.2250 mm, 84.3000 mm): Pad 19 [unconnected-(U9-V_{OUT}L--Pad19)] of U9 on F.Cu
+    @(196.2250 mm, 83.6500 mm): Pad 20 [Net-(U9-V_{OUT}L+)] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(196.2250 mm, 83.6500 mm): Pad 20 [Net-(U9-V_{OUT}L+)] of U9 on F.Cu
+    @(196.2250 mm, 83.0000 mm): Pad 21 [Net-(U9-V_{COM})] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(196.2250 mm, 83.0000 mm): Pad 21 [Net-(U9-V_{COM})] of U9 on F.Cu
+    @(196.2250 mm, 82.3500 mm): Pad 22 [GND] of U9 on F.Cu
+[hole_clearance]: Hole clearance violation (board setup constraints hole clearance 0.1000 mm; actual 0.0500 mm)
+    Rule: board setup constraints hole; error
+    @(196.2250 mm, 81.7000 mm): Pad 23 [GND] of U9 on F.Cu
+    @(196.2250 mm, 81.0500 mm): Pad 24 [5V] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(196.2250 mm, 81.0500 mm): Pad 24 [5V] of U9 on F.Cu
+    @(196.2250 mm, 80.4000 mm): Pad 25 [Net-(U9-V_{IN}L)] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(196.2250 mm, 80.4000 mm): Pad 25 [Net-(U9-V_{IN}L)] of U9 on F.Cu
+    @(196.2250 mm, 79.7500 mm): Pad 26 [Net-(U9-V_{IN}R)] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2500 mm)
+    Rule: netclass 'Default'; error
+    @(196.2250 mm, 79.7500 mm): Pad 26 [Net-(U9-V_{IN}R)] of U9 on F.Cu
+    @(196.2250 mm, 79.1000 mm): Pad 27 [GND] of U9 on F.Cu
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(175.7500 mm, 89.9800 mm): PTH pad 1 [X0D00] of J2
+    @(177.0200 mm, 89.9800 mm): PTH pad 2 [X0D11] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(177.0200 mm, 89.9800 mm): PTH pad 2 [X0D11] of J2
+    @(178.2900 mm, 89.9800 mm): PTH pad 3 [X0D29] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(178.2900 mm, 89.9800 mm): PTH pad 3 [X0D29] of J2
+    @(179.5600 mm, 89.9800 mm): PTH pad 4 [X0D30] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(179.5600 mm, 89.9800 mm): PTH pad 4 [X0D30] of J2
+    @(180.8300 mm, 89.9800 mm): PTH pad 5 [X0D31] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(180.8300 mm, 89.9800 mm): PTH pad 5 [X0D31] of J2
+    @(182.1000 mm, 89.9800 mm): PTH pad 6 [X0D32] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(182.1000 mm, 89.9800 mm): PTH pad 6 [X0D32] of J2
+    @(183.3700 mm, 89.9800 mm): PTH pad 7 [X0D33] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(183.3700 mm, 89.9800 mm): PTH pad 7 [X0D33] of J2
+    @(184.6400 mm, 89.9800 mm): PTH pad 8 [X0D36] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(184.6400 mm, 89.9800 mm): PTH pad 8 [X0D36] of J2
+    @(185.9100 mm, 89.9800 mm): PTH pad 9 [X0D39] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(185.9100 mm, 89.9800 mm): PTH pad 9 [X0D39] of J2
+    @(187.1800 mm, 89.9800 mm): PTH pad 10 [GND] of J2
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(164.4100 mm, 91.8700 mm): PTH pad 8 [xSYS2_TDI] of U8
+    @(163.1400 mm, 91.8700 mm): PTH pad 10 [RESET] of U8
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(163.1400 mm, 90.6000 mm): PTH pad 9 [GND] of U8
+    @(163.1400 mm, 91.8700 mm): PTH pad 10 [RESET] of U8
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(163.1400 mm, 91.8700 mm): PTH pad 10 [RESET] of U8
+    @(161.8700 mm, 91.8700 mm): PTH pad 12 [XL_DN1] of U8
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(158.0600 mm, 91.8700 mm): PTH pad 18 [XL_UP1] of U8
+    @(156.7900 mm, 91.8700 mm): PTH pad 20 [unconnected-(U8-DEBUG_N-Pad20)] of U8
+[clearance]: Clearance violation (netclass 'Default' clearance 0.7500 mm; actual 0.2700 mm)
+    Rule: netclass 'Default'; error
+    @(156.7900 mm, 90.6000 mm): PTH pad 19 [GND] of U8
+    @(156.7900 mm, 91.8700 mm): PTH pad 20 [unconnected-(U8-DEBUG_N-Pad20)] of U8
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.1000 mm)
+    Rule: board setup constraints silk; warning
+    @(151.0500 mm, 97.8882 mm): Segment on Edge.Cuts
+    @(150.9500 mm, 80.4000 mm): Dimension '107.8' on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(151.0500 mm, 97.8882 mm): Segment on Edge.Cuts
+    @(152.2000 mm, 80.4000 mm): Segment of J3_IN1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(151.0500 mm, 97.8882 mm): Segment on Edge.Cuts
+    @(152.2000 mm, 85.4000 mm): Segment of J3_IN1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(151.0500 mm, 97.8882 mm): Segment on Edge.Cuts
+    @(152.4000 mm, 70.1000 mm): Segment of J4_OUT1 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(151.0500 mm, 97.8882 mm): Segment on Edge.Cuts
+    @(152.4000 mm, 75.1000 mm): Segment of J4_OUT1 on F.Silkscreen
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(173.8375 mm, 81.6000 mm): Pad 1 [Net-(J3_IN1-TIP)] of C49 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(176.9625 mm, 81.6000 mm): Pad 2 [Net-(C49-Pad2)] of C49 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(241.7000 mm, 86.3500 mm): Pad 1 [Net-(U2A-XIN)] of R5 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(241.7000 mm, 89.4500 mm): Pad 2 [OSC] of R5 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(224.0625 mm, 79.6000 mm): Pad 1 [0V9] of C19 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(220.9375 mm, 79.6000 mm): Pad 2 [GND] of C19 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(162.0500 mm, 86.8525 mm): Pad 1 [X1D19] of R2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(158.9500 mm, 86.8525 mm): Pad 2 [XL_UP1] of R2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(171.1750 mm, 70.9000 mm): Pad 1 [GND] of C46 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(174.3000 mm, 70.9000 mm): Pad 2 [Net-(C45-Pad1)] of C46 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(182.0625 mm, 73.6000 mm): Pad 1 [Net-(C45-Pad1)] of R20 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(178.9625 mm, 73.6000 mm): Pad 2 [Net-(U9-V_{OUT}L+)] of R20 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(220.8625 mm, 76.8000 mm): Pad 1 [3V3] of C22 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(217.7375 mm, 76.8000 mm): Pad 2 [GND] of C22 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(247.8375 mm, 87.2000 mm): Pad 1 [5V] of C9 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(250.9625 mm, 87.2000 mm): Pad 2 [GND] of C9 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(226.0625 mm, 76.2000 mm): Pad 1 [0V9] of C16 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(222.9375 mm, 76.2000 mm): Pad 2 [GND] of C16 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(198.7000 mm, 86.4750 mm): Pad 1 [Net-(U9-V_{COM})] of C44 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(201.8250 mm, 86.4750 mm): Pad 2 [GND] of C44 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(250.2750 mm, 81.0750 mm): Pad 1 [D+] of U6 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(250.2750 mm, 81.7750 mm): Pad 2 [D-] of U6 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(251.1250 mm, 81.4250 mm): Pad 3 [GND] of U6 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(253.4500 mm, 75.8000 mm): Pad 1 [X0D43] of R29 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(256.5500 mm, 75.8000 mm): Pad 2 [Net-(D2-A)] of R29 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(237.5000 mm, 73.7625 mm): Pad 1 [1V8] of C27 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(237.5000 mm, 70.6375 mm): Pad 2 [GND] of C27 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(189.5125 mm, 71.0000 mm): Pad 1 [Net-(J4_OUT1-RING)] of R23 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(192.6125 mm, 71.0000 mm): Pad 2 [GND] of R23 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(238.9375 mm, 90.1000 mm): Pad 1 [Net-(U2B-PLL_AVDD)] of FB1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(236.8125 mm, 90.1000 mm): Pad 2 [0V9] of FB1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(180.5625 mm, 86.4525 mm): Pad 1 [1V8] of C1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(177.4375 mm, 86.4525 mm): Pad 2 [GND] of C1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(218.2625 mm, 95.9000 mm): Pad 1 [5V] of C2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(215.1375 mm, 95.9000 mm): Pad 2 [GND] of C2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(256.5500 mm, 73.1000 mm): Pad 1 [5V] of R28 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(253.4500 mm, 73.1000 mm): Pad 2 [Net-(D1-A)] of R28 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(241.1375 mm, 76.2500 mm): Pad 1 [1V8] of C14 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(244.2625 mm, 76.2500 mm): Pad 2 [GND] of C14 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.9000 mm, 73.8250 mm): Pad 1 [0V9] of C17 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.9000 mm, 70.7000 mm): Pad 2 [GND] of C17 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(184.2625 mm, 71.0000 mm): Pad 1 [Net-(C47-Pad1)] of C47 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(187.3875 mm, 71.0000 mm): Pad 2 [Net-(J4_OUT1-RING)] of C47 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(193.5625 mm, 91.7000 mm): Pad 1 [5V] of C4 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(190.4375 mm, 91.7000 mm): Pad 2 [GND] of C4 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(231.0000 mm, 88.8375 mm): Pad 1 [0V9] of C33 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(231.0000 mm, 91.9625 mm): Pad 2 [GND] of C33 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(153.5000 mm, 89.6500 mm): Pad 1 [X1D18] of R1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(153.5000 mm, 92.7500 mm): Pad 2 [XL_UP0] of R1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(200.2000 mm, 90.0375 mm): Pad 1 [3V3] of C5 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(200.2000 mm, 93.1625 mm): Pad 2 [GND] of C5 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(226.4500 mm, 96.4000 mm): Pad 1 [5V] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(226.4500 mm, 95.9000 mm): Pad 2 [Net-(U3-SW)] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(226.4500 mm, 95.4000 mm): Pad 3 [GND] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.2000 mm, 94.5000 mm): Pad 4 [unconnected-(U3-FB2-Pad4)] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(226.7000 mm, 94.5000 mm): Pad 5 [Net-(U3-FB)] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(226.2000 mm, 94.5000 mm): Pad 6 [0V9] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(225.7000 mm, 94.5000 mm): Pad 7 [unconnected-(U3-PG-Pad7)] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(225.7000 mm, 97.3000 mm): Pad 8 [5V] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(226.2000 mm, 97.3000 mm): Pad 9 [unconnected-(U3-SS/TR-Pad9)] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(226.7000 mm, 97.3000 mm): Pad 10 [5V] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.2000 mm, 97.3000 mm): Pad 11 [GND] of U3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(198.5625 mm, 77.3750 mm): Pad 1 [5V] of C40 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(201.6875 mm, 77.3750 mm): Pad 2 [GND] of C40 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(241.1375 mm, 72.9000 mm): Pad 1 [1V8] of C13 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(244.2625 mm, 72.9000 mm): Pad 2 [GND] of C13 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(248.2500 mm, 81.1000 mm): Pad 1 [Net-(J1-CC1)] of R3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(245.1500 mm, 81.1000 mm): Pad 2 [GND] of R3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(224.0625 mm, 85.5000 mm): Pad 1 [0V9] of C23 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(220.9375 mm, 85.5000 mm): Pad 2 [GND] of C23 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(173.8375 mm, 78.9000 mm): Pad 1 [Net-(J3_IN1-RING)] of C50 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(176.9625 mm, 78.9000 mm): Pad 2 [Net-(C50-Pad2)] of C50 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(250.9625 mm, 84.5000 mm): Pad 1 [GND] of C8 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(247.8375 mm, 84.5000 mm): Pad 2 [Net-(C8-Pad2)] of C8 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(234.3000 mm, 73.8625 mm): Pad 1 [3V3] of C20 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(234.3000 mm, 70.7375 mm): Pad 2 [GND] of C20 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(247.8375 mm, 89.8000 mm): Pad 1 [5V] of C10 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(250.9625 mm, 89.8000 mm): Pad 2 [GND] of C10 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(248.4000 mm, 76.3000 mm): Pad 1 [GND] of D2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(251.2000 mm, 76.3000 mm): Pad 2 [Net-(D2-A)] of D2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(212.7500 mm, 79.3000 mm): Pad 1 [3V3] of R6 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(215.8500 mm, 79.3000 mm): Pad 2 [CS] of R6 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(190.6000 mm, 97.3625 mm): Pad 1 [3V3] of C29 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(190.6000 mm, 94.2375 mm): Pad 2 [GND] of C29 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(254.9000 mm, 89.9625 mm): Pad 1 [Net-(C8-Pad2)] of F1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(254.9000 mm, 94.2375 mm): Pad 2 [5V] of F1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(212.0000 mm, 75.8000 mm): Pad 1 [HLD_RST_IO3] of R30 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(215.1000 mm, 75.8000 mm): Pad 2 [3V3] of R30 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(171.3750 mm, 76.4500 mm): Pad 1 [Net-(J4_OUT1-TIP)] of R21 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(171.3750 mm, 73.3500 mm): Pad 2 [GND] of R21 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(191.2000 mm, 73.5750 mm): Pad 1 [GND] of C39 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(194.3250 mm, 73.5750 mm): Pad 2 [3V3] of C39 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(184.2750 mm, 73.6000 mm): Pad 1 [GND] of C48 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(187.4000 mm, 73.6000 mm): Pad 2 [Net-(C47-Pad1)] of C48 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(171.7000 mm, 81.6400 mm): Pad 1 [GND] of R25 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(168.6000 mm, 81.6400 mm): Pad 2 [Net-(J3_IN1-TIP)] of R25 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(171.7000 mm, 78.8400 mm): Pad 1 [GND] of R27 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(168.6000 mm, 78.8400 mm): Pad 2 [Net-(J3_IN1-RING)] of R27 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.8000 mm, 88.9375 mm): Pad 1 [0V9] of C34 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.8000 mm, 92.0625 mm): Pad 2 [GND] of C34 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(170.6375 mm, 86.6525 mm): Pad 1 [3V3] of C38 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(173.7625 mm, 86.6525 mm): Pad 2 [GND] of C38 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(224.0625 mm, 82.6000 mm): Pad 1 [0V9] of C21 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(220.9375 mm, 82.6000 mm): Pad 2 [GND] of C21 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(213.1625 mm, 90.5000 mm): Pad 1 [5V] of C6 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(210.0375 mm, 90.5000 mm): Pad 2 [GND] of C6 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(197.1250 mm, 73.4750 mm): Pad 1 [I2S_RST] of R19 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(200.2250 mm, 73.4750 mm): Pad 2 [3V3] of R19 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(220.3500 mm, 93.3850 mm): Pad 1 [0V9] of R9 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(223.4500 mm, 93.3850 mm): Pad 2 [Net-(U3-FB)] of R9 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(195.6625 mm, 91.0500 mm): Pad 1 [5V] of U4 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(195.6625 mm, 92.0000 mm): Pad 2 [GND] of U4 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(195.6625 mm, 92.9500 mm): Pad 3 [5V] of U4 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(197.9375 mm, 92.9500 mm): Pad 4 [unconnected-(U4-NC-Pad4)] of U4 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(197.9375 mm, 91.0500 mm): Pad 5 [3V3] of U4 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(204.7375 mm, 93.2000 mm): Pad 1 [1V8] of C31 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(207.8625 mm, 93.2000 mm): Pad 2 [GND] of C31 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(236.2375 mm, 87.7000 mm): Pad 1 [Net-(U2B-PLL_AVDD)] of C32 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(239.3625 mm, 87.7000 mm): Pad 2 [GND] of C32 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(218.2625 mm, 93.4000 mm): Pad 1 [0V9] of C3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(215.1375 mm, 93.4000 mm): Pad 2 [GND] of C3 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(248.3500 mm, 73.1000 mm): Pad 1 [GND] of D1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(251.1500 mm, 73.1000 mm): Pad 2 [Net-(D1-A)] of D1 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(191.2000 mm, 76.0750 mm): Pad 1 [GND] of C41 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(194.3250 mm, 76.0750 mm): Pad 2 [3V3] of C41 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(238.6375 mm, 79.0000 mm): Pad 1 [0V9] of C15 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(241.7625 mm, 79.0000 mm): Pad 2 [GND] of C15 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.8993 mm, 84.5000 mm): Pad 1 [SI_IO1] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(228.2994 mm, 84.5000 mm): Pad 2 [HLD_RST_IO3] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(228.6995 mm, 84.5000 mm): Pad 3 [CS] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(229.0995 mm, 84.5000 mm): Pad 4 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(229.4995 mm, 84.5000 mm): Pad 5 [Net-(U2A-X0D10)] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(229.8996 mm, 84.5000 mm): Pad 6 [X0D00] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(230.2997 mm, 84.5000 mm): Pad 7 [X0D11] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(230.6997 mm, 84.5000 mm): Pad 8 [3V3] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(231.0998 mm, 84.5000 mm): Pad 9 [I2S_DAC_DATA] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(231.4998 mm, 84.5000 mm): Pad 10 [I2S_RCLK] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(231.8998 mm, 84.5000 mm): Pad 11 [X1D09] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(232.2999 mm, 84.5000 mm): Pad 12 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(232.7000 mm, 84.5000 mm): Pad 13 [I2S_BCLK] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.1000 mm, 84.5000 mm): Pad 14 [X1D11] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.5000 mm, 84.5000 mm): Pad 15 [unconnected-(U2A-XOUT-Pad15)] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 84.0255 mm): Pad 16 [Net-(U2A-XIN)] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 83.6254 mm): Pad 17 [1V8] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 83.2254 mm): Pad 18 [xSYS2_TDI] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 82.4253 mm): Pad 20 [xSYS2_TDO] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 82.0252 mm): Pad 21 [RESET] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 81.6252 mm): Pad 22 [Net-(U2B-PLL_AVDD)] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 81.2251 mm): Pad 23 [xSYS2_TMS] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 80.8251 mm): Pad 24 [xSYS2_TCK] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 80.4250 mm): Pad 25 [unconnected-(U2A-NC-Pad25)] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 80.0250 mm): Pad 26 [1V8] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 79.6249 mm): Pad 27 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 79.2249 mm): Pad 28 [D-] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 78.8248 mm): Pad 29 [D+] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.9747 mm, 78.4248 mm): Pad 30 [3V3] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.5000 mm, 77.9502 mm): Pad 31 [1V8] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.1000 mm, 77.9502 mm): Pad 32 [X1D13] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(232.7000 mm, 77.9502 mm): Pad 33 [XL_DN1] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(232.2999 mm, 77.9502 mm): Pad 34 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(231.8998 mm, 77.9502 mm): Pad 35 [XL_DN0] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(231.4998 mm, 77.9502 mm): Pad 36 [X1D18] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(231.0998 mm, 77.9502 mm): Pad 37 [X1D19] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(230.6997 mm, 77.9502 mm): Pad 38 [3V3] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(230.2997 mm, 77.9502 mm): Pad 39 [X1D22] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(229.8996 mm, 77.9502 mm): Pad 40 [X0D29] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(229.4995 mm, 77.9502 mm): Pad 41 [I2S_MCLK] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(229.0995 mm, 77.9502 mm): Pad 42 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(228.6995 mm, 77.9502 mm): Pad 43 [X0D36] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(228.2994 mm, 77.9502 mm): Pad 44 [I2C_SCL] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.8993 mm, 77.9502 mm): Pad 45 [I2C_SDA] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 78.4248 mm): Pad 46 [I2S_RST] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 78.8248 mm): Pad 47 [X0D39] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 79.2249 mm): Pad 48 [X0D42] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 79.6249 mm): Pad 49 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 80.0250 mm): Pad 50 [X0D41] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 80.4250 mm): Pad 51 [X0D43] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 80.8251 mm): Pad 52 [3V3] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 81.2251 mm): Pad 53 [I2S_ADC_DATA] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 81.6252 mm): Pad 54 [X0D30] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 82.0252 mm): Pad 55 [X0D31] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 82.4253 mm): Pad 56 [X0D32] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 82.8253 mm): Pad 57 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 83.2254 mm): Pad 58 [X0D33] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 83.6254 mm): Pad 59 [SI_IO0] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(227.4247 mm, 84.0255 mm): Pad 60 [WP_IO2] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(230.6997 mm, 81.2251 mm): Pad 65 [GND] of U2 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(176.8375 mm, 73.6000 mm): Pad 1 [Net-(C45-Pad1)] of C45 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(173.7125 mm, 73.6000 mm): Pad 2 [Net-(J4_OUT1-TIP)] of C45 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(204.7575 mm, 95.8000 mm): Pad 1 [1V8] of C37 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(207.8825 mm, 95.8000 mm): Pad 2 [GND] of C37 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(205.9375 mm, 82.6000 mm): Pad 1 [3V3] of C11 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(209.0625 mm, 82.6000 mm): Pad 2 [GND] of C11 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(214.5500 mm, 82.6000 mm): Pad 1 [Net-(U2A-X0D10)] of R7 on F.Cu
+[padstack_invalid]: Padstack is not valid (SMD pad has a hole)
+    Local override; error
+    @(211.4500 mm, 82.6000 mm): Pad 2 [SCLK] of R7 on F.Cu
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0625 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(161.1900 mm, 88.8900 mm): PCB text '3V3' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(161.1900 mm, 88.8900 mm): PCB text '3V3' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0625 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(156.3300 mm, 89.3100 mm): PCB text 'GND	' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(156.3300 mm, 89.3100 mm): PCB text 'GND	' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(168.9650 mm, 92.1879 mm): PCB text 'TMS' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0625 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(157.3000 mm, 93.0000 mm): PCB text 'UP1' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(157.3000 mm, 93.0000 mm): PCB text 'UP1' on F.Silkscreen
+[text_thickness]: Text thickness out of range (board setup constraints silk text thickness min thickness 0.0800 mm; actual 0.0625 mm)
+    Rule: board setup constraints silk text thickness; warning
+    @(167.5000 mm, 89.2200 mm): PCB text '1V8
+' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.5000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(167.5000 mm, 89.2200 mm): PCB text '1V8
+' on F.Silkscreen
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(245.1000 mm, 90.5000 mm): Reference field of TPOSC1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(251.4525 mm, 83.1300 mm): Reference field of J1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(162.6500 mm, 81.2000 mm): Reference field of J3_IN1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(163.0500 mm, 71.0000 mm): Reference field of J4_OUT1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(175.4000 mm, 83.6000 mm): Reference field of C49
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(219.4000 mm, 79.6000 mm): Reference field of C19
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(157.4500 mm, 86.7525 mm): Reference field of R2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(172.7375 mm, 69.0500 mm): Reference field of C46
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(180.5125 mm, 75.4300 mm): Reference field of R20
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(219.3000 mm, 74.9000 mm): Reference field of C22
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(253.0000 mm, 89.5000 mm): Reference field of C9
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(220.7625 mm, 76.2000 mm): Reference field of C16
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(203.8625 mm, 86.4750 mm): Reference field of C44
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(167.8000 mm, 85.7000 mm): Reference field of TP3V3+1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(252.1250 mm, 81.4250 mm): Reference field of U6
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(258.0000 mm, 75.8000 mm): Reference field of R29
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(237.5000 mm, 68.7000 mm): Reference field of C27
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(191.0625 mm, 69.1700 mm): Reference field of R23
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(179.0000 mm, 84.7525 mm): Reference field of C1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(215.5000 mm, 97.8000 mm): Reference field of C2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(258.0000 mm, 73.2000 mm): Reference field of R28
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(242.7000 mm, 74.4000 mm): Reference field of C14
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(227.9000 mm, 69.1625 mm): Reference field of C17
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(185.8375 mm, 69.1000 mm): Reference field of C47
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(192.0000 mm, 89.8000 mm): Reference field of C4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(231.0000 mm, 93.6000 mm): Reference field of C33
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(153.5500 mm, 88.2000 mm): Reference field of R1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(202.2000 mm, 91.6000 mm): Reference field of C5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(226.5000 mm, 98.5000 mm): Reference field of U3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(200.1000 mm, 75.7000 mm): Reference field of C40
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(239.7000 mm, 72.9000 mm): Reference field of C13
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(243.8000 mm, 81.1000 mm): Reference field of R3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(218.8000 mm, 85.4000 mm): Reference field of C23
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(175.4000 mm, 76.7400 mm): Reference field of C50
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(246.1000 mm, 84.5000 mm): Reference field of C8
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(232.4500 mm, 72.3000 mm): Reference field of C20
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(247.8000 mm, 91.6000 mm): Reference field of C10
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(253.3000 mm, 76.3000 mm): Reference field of D2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(214.2725 mm, 77.7550 mm): Reference field of R6
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(191.0000 mm, 98.9000 mm): Reference field of C29
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(254.9000 mm, 92.1000 mm): Reference field of F1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(169.6000 mm, 74.9000 mm): Reference field of R21
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(195.9625 mm, 71.2750 mm): Reference field of C39
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(185.8500 mm, 75.6500 mm): Reference field of C48
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(170.1000 mm, 83.4000 mm): Reference field of R25
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(168.9000 mm, 77.1000 mm): Reference field of R27
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(233.8000 mm, 93.7000 mm): Reference field of C34
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(170.8000 mm, 85.1000 mm): Reference field of C38
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(218.8000 mm, 82.6000 mm): Reference field of C21
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(211.6625 mm, 88.5000 mm): Reference field of C6
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(202.6000 mm, 73.3900 mm): Reference field of R19
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(221.9000 mm, 91.5000 mm): Reference field of R9
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(196.8000 mm, 89.6000 mm): Reference field of U4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(202.3800 mm, 93.1500 mm): Reference field of C31
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(237.8000 mm, 89.4000 mm): Reference field of C32
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(185.1000 mm, 85.5000 mm): Reference field of TP1V8+1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(216.8000 mm, 91.6000 mm): Reference field of C3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(228.6000 mm, 75.5000 mm): Reference field of TP0V9+1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(174.0400 mm, 93.2200 mm): Reference field of J3
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(246.3000 mm, 73.1000 mm): Reference field of D1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(188.7625 mm, 76.0750 mm): Reference field of C41
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(243.8000 mm, 79.0000 mm): Reference field of C15
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(230.6997 mm, 81.2251 mm): Reference field of U2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(175.2750 mm, 75.4500 mm): Reference field of C45
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(202.3000 mm, 95.8000 mm): Reference field of C37
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(207.5000 mm, 84.6000 mm): Reference field of C11
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(213.0000 mm, 84.4300 mm): Reference field of R7
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(180.5500 mm, 76.7400 mm): Reference field of R26
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(180.6000 mm, 83.6000 mm): Reference field of R24
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(231.2000 mm, 68.7000 mm): Reference field of C24
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(211.6000 mm, 96.6200 mm): Reference field of U5
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(227.2375 mm, 90.9000 mm): Reference field of C12
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(237.2000 mm, 74.5500 mm): Reference field of C25
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(228.2375 mm, 93.1000 mm): Reference field of C18
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(203.3000 mm, 80.0000 mm): Reference field of C42
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(200.2625 mm, 84.6750 mm): Reference field of C43
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(186.1625 mm, 77.2750 mm): Reference field of R18
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(193.3625 mm, 82.5750 mm): Reference field of U9
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(245.2000 mm, 87.7000 mm): Reference field of R4
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(195.3000 mm, 95.7625 mm): Reference field of C30
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(233.3000 mm, 95.9000 mm): Reference field of L1
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(243.3000 mm, 81.6000 mm): Reference field of C28
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(221.9000 mm, 97.9050 mm): Reference field of R17
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(243.9000 mm, 84.0000 mm): Reference field of C26
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(206.2000 mm, 88.6500 mm): Reference field of C7
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(174.0050 mm, 89.9800 mm): Reference field of J2
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(186.1000 mm, 83.6000 mm): Reference field of R8
+[text_height]: Text height out of range (board setup constraints silk text height min height 0.8000 mm; actual 0.7000 mm)
+    Rule: board setup constraints silk text height; warning
+    @(180.5125 mm, 68.8000 mm): Reference field of R22
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(245.1000 mm, 90.5000 mm): Reference field of TPOSC1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.2000 mm, 80.4000 mm): Segment of J3_IN1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.7000 mm, 85.4000 mm): Segment of J3_IN1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(152.4000 mm, 70.1000 mm): Segment of J4_OUT1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(166.9000 mm, 75.1000 mm): Segment of J4_OUT1 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(253.0000 mm, 89.5000 mm): Reference field of C9
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(220.7625 mm, 76.2000 mm): Reference field of C16
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(253.3000 mm, 76.3000 mm): Reference field of D2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(221.9000 mm, 91.5000 mm): Reference field of R9
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(237.8000 mm, 89.4000 mm): Reference field of C32
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(228.6000 mm, 75.5000 mm): Reference field of TP0V9+1
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(230.6997 mm, 81.2251 mm): Reference field of U2
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(227.2375 mm, 90.9000 mm): Reference field of C12
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(237.2000 mm, 74.5500 mm): Reference field of C25
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(243.9000 mm, 84.0000 mm): Reference field of C26
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1170 mm)
+    Rule: board setup constraints silk; warning
+    @(161.1900 mm, 88.8900 mm): PCB text '3V3' on F.Silkscreen
+    @(160.8000 mm, 89.0000 mm): Rectangle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(167.4100 mm, 89.4200 mm): Segment of U8 on F.Silkscreen
+    @(160.8000 mm, 89.0000 mm): Rectangle on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1308 mm)
+    Rule: board setup constraints silk; warning
+    @(156.3300 mm, 89.3100 mm): PCB text 'GND	' on F.Silkscreen
+    @(167.4100 mm, 89.4200 mm): Segment of U8 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1500 mm)
+    Rule: board setup constraints silk; warning
+    @(168.9650 mm, 92.1879 mm): PCB text 'TMS' on F.Silkscreen
+    @(168.9650 mm, 92.1879 mm): Segment of U8 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0708 mm)
+    Rule: board setup constraints silk; warning
+    @(168.9650 mm, 93.0500 mm): Segment of U8 on F.Silkscreen
+    @(157.3000 mm, 93.0000 mm): PCB text 'UP1' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(152.4000 mm, 70.1000 mm): Segment of J4_OUT1 on F.Silkscreen
+    @(150.9500 mm, 80.4000 mm): Dimension '107.8' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(152.4000 mm, 75.1000 mm): Segment of J4_OUT1 on F.Silkscreen
+    @(150.9500 mm, 80.4000 mm): Dimension '107.8' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1910 mm)
+    Rule: board setup constraints silk; warning
+    @(220.7625 mm, 76.2000 mm): Reference field of C16
+    @(220.0113 mm, 75.8900 mm): Segment of C22 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1840 mm)
+    Rule: board setup constraints silk; warning
+    @(214.2725 mm, 77.7550 mm): Reference field of R6
+    @(213.5729 mm, 78.3900 mm): Segment of R6 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0710 mm)
+    Rule: board setup constraints silk; warning
+    @(241.9887 mm, 73.8100 mm): Segment of C13 on F.Silkscreen
+    @(242.7000 mm, 74.4000 mm): Reference field of C14
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(247.5150 mm, 74.7150 mm): Segment of D2 on F.Silkscreen
+    @(247.4650 mm, 71.5150 mm): Segment of D1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(251.4000 mm, 74.7150 mm): Segment of D2 on F.Silkscreen
+    @(247.4650 mm, 71.5150 mm): Segment of D1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(247.5150 mm, 74.7150 mm): Segment of D2 on F.Silkscreen
+    @(247.4650 mm, 74.6850 mm): Segment of D1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(251.4000 mm, 74.7150 mm): Segment of D2 on F.Silkscreen
+    @(247.4650 mm, 74.6850 mm): Segment of D1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1958 mm)
+    Rule: board setup constraints silk; warning
+    @(246.1000 mm, 84.5000 mm): Reference field of C8
+    @(246.1100 mm, 84.0729 mm): Segment of R4 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1858 mm)
+    Rule: board setup constraints silk; warning
+    @(243.8000 mm, 81.1000 mm): Reference field of R3
+    @(243.3000 mm, 81.6000 mm): Reference field of C28
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1505 mm)
+    Rule: board setup constraints silk; warning
+    @(232.4500 mm, 72.3000 mm): Reference field of C20
+    @(232.1100 mm, 73.0113 mm): Segment of C24 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0897 mm)
+    Rule: board setup constraints silk; warning
+    @(244.2900 mm, 84.0729 mm): Segment of R4 on F.Silkscreen
+    @(243.9000 mm, 84.0000 mm): Reference field of C26
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1189 mm)
+    Rule: board setup constraints silk; warning
+    @(227.8993 mm, 85.3636 mm): Footprint text of U2 (*)
+    @(227.0675 mm, 84.8573 mm): Segment of U2 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1189 mm)
+    Rule: board setup constraints silk; warning
+    @(227.8993 mm, 85.3636 mm): Footprint text of U2 (*)
+    @(227.0675 mm, 84.8573 mm): Segment of U2 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0000 mm)
+    Rule: board setup constraints silk; warning
+    @(227.8993 mm, 85.3636 mm): Footprint text of U2 (*)
+    @(227.8993 mm, 85.3636 mm): Footprint text of U2 (*)
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.0077 mm)
+    Rule: board setup constraints silk; warning
+    @(238.2746 mm, 89.5400 mm): Segment of FB1 on F.Silkscreen
+    @(237.8000 mm, 89.4000 mm): Reference field of C32
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1856 mm)
+    Rule: board setup constraints silk; warning
+    @(231.0000 mm, 93.6000 mm): Reference field of C33
+    @(228.7050 mm, 97.8400 mm): Rectangle of L1 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1393 mm)
+    Rule: board setup constraints silk; warning
+    @(227.2375 mm, 90.9000 mm): Reference field of C12
+    @(227.2900 mm, 89.1887 mm): Segment of C18 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1732 mm)
+    Rule: board setup constraints silk; warning
+    @(168.2200 mm, 89.4200 mm): Segment of U8 on F.Silkscreen
+    @(167.5000 mm, 89.2200 mm): PCB text '1V8
+' on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0.2000 mm; actual 0.1915 mm)
+    Rule: board setup constraints silk; warning
+    @(170.8000 mm, 85.1000 mm): Reference field of C38
+    @(171.4887 mm, 85.7425 mm): Segment of C38 on F.Silkscreen
+
+** Found 265 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(162.0500 mm, 86.8525 mm): Pad 1 [X1D19] of R2 on F.Cu
+    @(231.0998 mm, 77.9502 mm): Pad 37 [X1D19] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(168.2200 mm, 91.8700 mm): PTH pad 2 [xSYS2_TMS] of U8
+    @(233.9747 mm, 81.2251 mm): Pad 23 [xSYS2_TMS] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(182.1000 mm, 89.9800 mm): PTH pad 6 [X0D32] of J2
+    @(227.4247 mm, 82.4253 mm): Pad 56 [X0D32] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.9747 mm, 80.0250 mm): Pad 26 [1V8] of U2 on F.Cu
+    @(233.5000 mm, 77.9502 mm): Pad 31 [1V8] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(204.7575 mm, 95.8000 mm): Pad 1 [1V8] of C37 on F.Cu
+    @(204.7375 mm, 93.2000 mm): Pad 1 [1V8] of C31 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(204.6375 mm, 90.5000 mm): Pad 1 [1V8] of C7 on F.Cu
+    @(204.7375 mm, 93.2000 mm): Pad 1 [1V8] of C31 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.1375 mm, 72.9000 mm): Pad 1 [1V8] of C13 on F.Cu
+    @(241.1375 mm, 76.2500 mm): Pad 1 [1V8] of C14 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.9747 mm, 80.0250 mm): Pad 26 [1V8] of U2 on F.Cu
+    @(233.9747 mm, 83.6254 mm): Pad 17 [1V8] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.1375 mm, 72.9000 mm): Pad 1 [1V8] of C13 on F.Cu
+    @(237.5000 mm, 73.7625 mm): Pad 1 [1V8] of C27 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.8750 mm, 93.1250 mm): Track [1V8] on F.Cu, length 1.4500 mm
+    @(240.4625 mm, 96.8000 mm): Pad 1 [1V8] of C36 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(180.5625 mm, 86.4525 mm): Pad 1 [1V8] of C1 on F.Cu
+    @(185.1000 mm, 86.5000 mm): PTH pad 1 [1V8] of TP1V8+1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.5000 mm, 77.9502 mm): Pad 31 [1V8] of U2 on F.Cu
+    @(237.5000 mm, 73.7625 mm): Pad 1 [1V8] of C27 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(212.7375 mm, 93.1500 mm): Pad 5 [1V8] of U5 on F.Cu
+    @(204.7375 mm, 93.2000 mm): Pad 1 [1V8] of C31 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.8750 mm, 93.1250 mm): Track [1V8] on F.Cu, length 1.4500 mm
+    @(233.9747 mm, 83.6254 mm): Pad 17 [1V8] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(180.5625 mm, 86.4525 mm): Pad 1 [1V8] of C1 on F.Cu
+    @(168.2200 mm, 90.6000 mm): PTH pad 1 [1V8] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(185.1000 mm, 86.5000 mm): PTH pad 1 [1V8] of TP1V8+1
+    @(204.6375 mm, 90.5000 mm): Pad 1 [1V8] of C7 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.9747 mm, 83.6254 mm): Pad 17 [1V8] of U2 on F.Cu
+    @(212.7375 mm, 93.1500 mm): Pad 5 [1V8] of U5 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 78.4500 mm): Pad 1 [I2C_SCL] of U9 on F.Cu
+    @(187.6125 mm, 78.9750 mm): Pad 2 [I2C_SCL] of R18 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(228.2994 mm, 77.9502 mm): Pad 44 [I2C_SCL] of U2 on F.Cu
+    @(190.5000 mm, 78.4500 mm): Pad 1 [I2C_SCL] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(182.1350 mm, 93.2200 mm): PTH pad 6 [X1D13] of J3
+    @(233.1000 mm, 77.9502 mm): Pad 32 [X1D13] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(215.8500 mm, 79.3000 mm): Pad 2 [CS] of R6 on F.Cu
+    @(205.4900 mm, 80.2000 mm): Pad 1 [CS] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(228.6995 mm, 84.5000 mm): Pad 3 [CS] of U2 on F.Cu
+    @(215.8500 mm, 79.3000 mm): Pad 2 [CS] of R6 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(178.2900 mm, 89.9800 mm): PTH pad 3 [X0D29] of J2
+    @(229.8996 mm, 77.9502 mm): Pad 40 [X0D29] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(175.7850 mm, 93.2200 mm): PTH pad 1 [X0D41] of J3
+    @(227.4247 mm, 80.0250 mm): Pad 50 [X0D41] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 79.7500 mm): Pad 3 [I2S_ADC_DATA] of U9 on F.Cu
+    @(227.4247 mm, 81.2251 mm): Pad 53 [I2S_ADC_DATA] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(255.5025 mm, 83.6300 mm): Pad B7 [D-] of J1 on F.Cu
+    @(254.2525 mm, 82.8800 mm): Pad A7 [D-] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.2525 mm, 82.8800 mm): Pad A7 [D-] of J1 on F.Cu
+    @(250.2750 mm, 81.7750 mm): Pad 2 [D-] of U6 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(250.2750 mm, 81.7750 mm): Pad 2 [D-] of U6 on F.Cu
+    @(233.9747 mm, 79.2249 mm): Pad 28 [D-] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(164.4100 mm, 91.8700 mm): PTH pad 8 [xSYS2_TDI] of U8
+    @(233.9747 mm, 83.2254 mm): Pad 18 [xSYS2_TDI] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 79.1000 mm): Pad 2 [I2C_SDA] of U9 on F.Cu
+    @(187.6125 mm, 81.5750 mm): Pad 2 [I2C_SDA] of R8 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.8993 mm, 77.9502 mm): Pad 45 [I2C_SDA] of U2 on F.Cu
+    @(190.5000 mm, 79.1000 mm): Pad 2 [I2C_SDA] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(197.1250 mm, 73.4750 mm): Pad 1 [I2S_RST] of R19 on F.Cu
+    @(196.2250 mm, 86.9000 mm): Pad 15 [I2S_RST] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.4247 mm, 78.4248 mm): Pad 46 [I2S_RST] of U2 on F.Cu
+    @(197.1250 mm, 73.4750 mm): Pad 1 [I2S_RST] of R19 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(163.1400 mm, 91.8700 mm): PTH pad 10 [RESET] of U8
+    @(184.6750 mm, 93.2200 mm): PTH pad 8 [RESET] of J3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(184.6750 mm, 93.2200 mm): PTH pad 8 [RESET] of J3
+    @(233.9747 mm, 82.0252 mm): Pad 21 [RESET] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 85.6000 mm): Pad 12 [I2S_DAC_DATA] of U9 on F.Cu
+    @(231.0998 mm, 84.5000 mm): Pad 9 [I2S_DAC_DATA] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(253.4500 mm, 75.8000 mm): Pad 1 [X0D43] of R29 on F.Cu
+    @(227.4247 mm, 80.4250 mm): Pad 51 [X0D43] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.4247 mm, 80.4250 mm): Pad 51 [X0D43] of U2 on F.Cu
+    @(178.3250 mm, 93.2200 mm): PTH pad 3 [X0D43] of J3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(196.2250 mm, 78.4500 mm): Pad 28 [GND] of U9 on F.Cu
+    @(196.2250 mm, 79.1000 mm): Pad 27 [GND] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(196.2250 mm, 82.3500 mm): Pad 22 [GND] of U9 on F.Cu
+    @(196.2250 mm, 81.7000 mm): Pad 23 [GND] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(159.3300 mm, 90.6000 mm): PTH pad 15 [GND] of U8
+    @(160.6000 mm, 90.6000 mm): PTH pad 13 [GND] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(165.6800 mm, 90.6000 mm): PTH pad 5 [GND] of U8
+    @(164.4100 mm, 90.6000 mm): PTH pad 7 [GND] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(158.0600 mm, 90.6000 mm): PTH pad 17 [GND] of U8
+    @(156.7900 mm, 90.6000 mm): PTH pad 19 [GND] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(159.3300 mm, 90.6000 mm): PTH pad 15 [GND] of U8
+    @(158.0600 mm, 90.6000 mm): PTH pad 17 [GND] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(165.6800 mm, 90.6000 mm): PTH pad 5 [GND] of U8
+    @(166.9500 mm, 90.6000 mm): PTH pad 3 [GND] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(164.4100 mm, 90.6000 mm): PTH pad 7 [GND] of U8
+    @(163.1400 mm, 90.6000 mm): PTH pad 9 [GND] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.2000 mm, 97.3000 mm): Pad 11 [GND] of U3 on F.Cu
+    @(226.4500 mm, 95.4000 mm): Pad 3 [GND] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(207.7625 mm, 90.5000 mm): Pad 2 [GND] of C7 on F.Cu
+    @(210.0375 mm, 90.5000 mm): Pad 2 [GND] of C6 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(209.0625 mm, 82.6000 mm): Pad 2 [GND] of C11 on F.Cu
+    @(209.3000 mm, 80.2000 mm): Pad 4 [GND] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(171.3750 mm, 73.3500 mm): Pad 2 [GND] of R21 on F.Cu
+    @(171.1750 mm, 70.9000 mm): Pad 1 [GND] of C46 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(191.2000 mm, 73.5750 mm): Pad 1 [GND] of C39 on F.Cu
+    @(191.2000 mm, 76.0750 mm): Pad 1 [GND] of C41 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.7625 mm, 84.1000 mm): Pad 2 [GND] of C26 on F.Cu
+    @(241.7625 mm, 81.6000 mm): Pad 2 [GND] of C28 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(215.1375 mm, 93.4000 mm): Pad 2 [GND] of C3 on F.Cu
+    @(215.1375 mm, 95.9000 mm): Pad 2 [GND] of C2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(160.6000 mm, 90.6000 mm): PTH pad 13 [GND] of U8
+    @(163.1400 mm, 90.6000 mm): PTH pad 9 [GND] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.6000 mm, 94.2375 mm): Pad 2 [GND] of C29 on F.Cu
+    @(190.4375 mm, 91.7000 mm): Pad 2 [GND] of C4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(250.9625 mm, 87.2000 mm): Pad 2 [GND] of C9 on F.Cu
+    @(250.9625 mm, 89.8000 mm): Pad 2 [GND] of C10 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.7625 mm, 79.0000 mm): Pad 2 [GND] of C15 on F.Cu
+    @(241.7625 mm, 81.6000 mm): Pad 2 [GND] of C28 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(196.2250 mm, 79.1000 mm): Pad 27 [GND] of U9 on F.Cu
+    @(196.2250 mm, 81.7000 mm): Pad 23 [GND] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(207.8825 mm, 95.8000 mm): Pad 2 [GND] of C37 on F.Cu
+    @(207.8625 mm, 93.2000 mm): Pad 2 [GND] of C31 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(201.6875 mm, 77.3750 mm): Pad 2 [GND] of C40 on F.Cu
+    @(201.7250 mm, 79.9750 mm): Pad 2 [GND] of C42 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(250.9625 mm, 84.5000 mm): Pad 1 [GND] of C8 on F.Cu
+    @(250.9625 mm, 87.2000 mm): Pad 2 [GND] of C9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(193.3000 mm, 94.2000 mm): Pad 2 [GND] of C30 on F.Cu
+    @(190.6000 mm, 94.2375 mm): Pad 2 [GND] of C29 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(207.7625 mm, 90.5000 mm): Pad 2 [GND] of C7 on F.Cu
+    @(207.8625 mm, 93.2000 mm): Pad 2 [GND] of C31 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(207.8625 mm, 93.2000 mm): Pad 2 [GND] of C31 on F.Cu
+    @(210.4625 mm, 94.1000 mm): Pad 2 [GND] of U5 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(171.7000 mm, 81.6400 mm): Pad 1 [GND] of R25 on F.Cu
+    @(171.7000 mm, 78.8400 mm): Pad 1 [GND] of R27 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(231.0000 mm, 91.9625 mm): Pad 2 [GND] of C33 on F.Cu
+    @(233.8000 mm, 92.0625 mm): Pad 2 [GND] of C34 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(201.8250 mm, 82.7750 mm): Pad 2 [GND] of C43 on F.Cu
+    @(201.7250 mm, 79.9750 mm): Pad 2 [GND] of C42 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(228.2000 mm, 91.4625 mm): Pad 2 [GND] of C18 on F.Cu
+    @(231.0000 mm, 91.9625 mm): Pad 2 [GND] of C33 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(220.9375 mm, 85.5000 mm): Pad 2 [GND] of C23 on F.Cu
+    @(220.9375 mm, 82.6000 mm): Pad 2 [GND] of C21 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(191.2000 mm, 73.5750 mm): Pad 1 [GND] of C39 on F.Cu
+    @(192.6125 mm, 71.0000 mm): Pad 2 [GND] of R23 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(220.9375 mm, 79.6000 mm): Pad 2 [GND] of C19 on F.Cu
+    @(220.9375 mm, 82.6000 mm): Pad 2 [GND] of C21 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(223.4500 mm, 95.9000 mm): Pad 2 [GND] of R17 on F.Cu
+    @(226.4500 mm, 95.4000 mm): Pad 3 [GND] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(251.1250 mm, 81.4250 mm): Pad 3 [GND] of U6 on F.Cu
+    @(250.9625 mm, 84.5000 mm): Pad 1 [GND] of C8 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(231.2000 mm, 70.7375 mm): Pad 2 [GND] of C24 on F.Cu
+    @(234.3000 mm, 70.7375 mm): Pad 2 [GND] of C20 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(248.3500 mm, 73.1000 mm): Pad 1 [GND] of D1 on F.Cu
+    @(248.4000 mm, 76.3000 mm): Pad 1 [GND] of D2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(234.3000 mm, 70.7375 mm): Pad 2 [GND] of C20 on F.Cu
+    @(237.5000 mm, 70.6375 mm): Pad 2 [GND] of C27 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(195.6625 mm, 92.0000 mm): Pad 2 [GND] of U4 on F.Cu
+    @(193.3000 mm, 94.2000 mm): Pad 2 [GND] of C30 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.9000 mm, 70.7000 mm): Pad 2 [GND] of C17 on F.Cu
+    @(231.2000 mm, 70.7375 mm): Pad 2 [GND] of C24 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(244.2625 mm, 72.9000 mm): Pad 2 [GND] of C13 on F.Cu
+    @(244.2625 mm, 76.2500 mm): Pad 2 [GND] of C14 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.7625 mm, 81.6000 mm): Pad 2 [GND] of C28 on F.Cu
+    @(245.1500 mm, 81.1000 mm): Pad 2 [GND] of R3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(209.3000 mm, 80.2000 mm): Pad 4 [GND] of U1 on F.Cu
+    @(207.3950 mm, 77.3000 mm): Pad 9 [GND] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(177.4375 mm, 86.4525 mm): Pad 2 [GND] of C1 on F.Cu
+    @(173.7625 mm, 86.6525 mm): Pad 2 [GND] of C38 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(187.1800 mm, 89.9800 mm): PTH pad 10 [GND] of J2
+    @(190.4375 mm, 91.7000 mm): Pad 2 [GND] of C4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(201.8250 mm, 82.7750 mm): Pad 2 [GND] of C43 on F.Cu
+    @(201.8250 mm, 86.4750 mm): Pad 2 [GND] of C44 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.7625 mm, 79.0000 mm): Pad 2 [GND] of C15 on F.Cu
+    @(244.2625 mm, 76.2500 mm): Pad 2 [GND] of C14 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(196.2250 mm, 82.3500 mm): Pad 22 [GND] of U9 on F.Cu
+    @(196.2250 mm, 86.2500 mm): Pad 16 [GND] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(222.9375 mm, 76.2000 mm): Pad 2 [GND] of C16 on F.Cu
+    @(220.9375 mm, 79.6000 mm): Pad 2 [GND] of C19 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.7625 mm, 79.0000 mm): Pad 2 [GND] of C15 on F.Cu
+    @(238.7625 mm, 76.4000 mm): Pad 2 [GND] of C25 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(244.2625 mm, 72.9000 mm): Pad 2 [GND] of C13 on F.Cu
+    @(248.3500 mm, 73.1000 mm): Pad 1 [GND] of D1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(155.6000 mm, 86.6750 mm): Pad 1 [GND] of J3_IN1 on F.Cu
+    @(156.7900 mm, 90.6000 mm): PTH pad 19 [GND] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(241.7625 mm, 84.1000 mm): Pad 2 [GND] of C26 on F.Cu
+    @(245.2000 mm, 86.3500 mm): Pad 2 [GND] of R4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(217.7375 mm, 76.8000 mm): Pad 2 [GND] of C22 on F.Cu
+    @(220.9375 mm, 79.6000 mm): Pad 2 [GND] of C19 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(226.4500 mm, 95.4000 mm): Pad 3 [GND] of U3 on F.Cu
+    @(228.2000 mm, 91.4625 mm): Pad 2 [GND] of C18 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(239.3625 mm, 87.7000 mm): Pad 2 [GND] of C32 on F.Cu
+    @(241.7625 mm, 84.1000 mm): Pad 2 [GND] of C26 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(200.2000 mm, 93.1625 mm): Pad 2 [GND] of C5 on F.Cu
+    @(195.6625 mm, 92.0000 mm): Pad 2 [GND] of U4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(210.4625 mm, 94.1000 mm): Pad 2 [GND] of U5 on F.Cu
+    @(215.1375 mm, 93.4000 mm): Pad 2 [GND] of C3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(223.4500 mm, 95.9000 mm): Pad 2 [GND] of R17 on F.Cu
+    @(222.6375 mm, 90.9000 mm): Pad 2 [GND] of C12 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(245.2000 mm, 86.3500 mm): Pad 2 [GND] of R4 on F.Cu
+    @(243.3250 mm, 91.2750 mm): Pad 2 [GND] of Y2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(173.7625 mm, 86.6525 mm): Pad 2 [GND] of C38 on F.Cu
+    @(171.7000 mm, 81.6400 mm): Pad 1 [GND] of R25 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(171.7000 mm, 78.8400 mm): Pad 1 [GND] of R27 on F.Cu
+    @(171.3750 mm, 73.3500 mm): Pad 2 [GND] of R21 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(196.2250 mm, 78.4500 mm): Pad 28 [GND] of U9 on F.Cu
+    @(191.2000 mm, 76.0750 mm): Pad 1 [GND] of C41 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(196.2250 mm, 78.4500 mm): Pad 28 [GND] of U9 on F.Cu
+    @(201.6875 mm, 77.3750 mm): Pad 2 [GND] of C40 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(220.9375 mm, 85.5000 mm): Pad 2 [GND] of C23 on F.Cu
+    @(222.6375 mm, 90.9000 mm): Pad 2 [GND] of C12 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(201.6875 mm, 77.3750 mm): Pad 2 [GND] of C40 on F.Cu
+    @(207.3950 mm, 77.3000 mm): Pad 9 [GND] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 83.0000 mm): Pad 8 [GND] of U9 on F.Cu
+    @(196.2250 mm, 82.3500 mm): Pad 22 [GND] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(195.6625 mm, 92.0000 mm): Pad 2 [GND] of U4 on F.Cu
+    @(196.2250 mm, 86.2500 mm): Pad 16 [GND] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(251.1250 mm, 81.4250 mm): Pad 3 [GND] of U6 on F.Cu
+    @(248.4000 mm, 76.3000 mm): Pad 1 [GND] of D2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(238.7625 mm, 76.4000 mm): Pad 2 [GND] of C25 on F.Cu
+    @(237.5000 mm, 70.6375 mm): Pad 2 [GND] of C27 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(237.3375 mm, 96.8000 mm): Pad 2 [GND] of C36 on F.Cu
+    @(233.8000 mm, 92.0625 mm): Pad 2 [GND] of C34 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(191.2000 mm, 73.5750 mm): Pad 1 [GND] of C39 on F.Cu
+    @(184.2750 mm, 73.6000 mm): Pad 1 [GND] of C48 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(239.3625 mm, 87.7000 mm): Pad 2 [GND] of C32 on F.Cu
+    @(233.8000 mm, 92.0625 mm): Pad 2 [GND] of C34 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(207.7625 mm, 90.5000 mm): Pad 2 [GND] of C7 on F.Cu
+    @(201.8250 mm, 86.4750 mm): Pad 2 [GND] of C44 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(173.7625 mm, 86.6525 mm): Pad 2 [GND] of C38 on F.Cu
+    @(166.9500 mm, 90.6000 mm): PTH pad 3 [GND] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(222.6375 mm, 90.9000 mm): Pad 2 [GND] of C12 on F.Cu
+    @(215.1375 mm, 93.4000 mm): Pad 2 [GND] of C3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(230.6997 mm, 81.2251 mm): Pad 65 [GND] of U2 on F.Cu
+    @(222.9375 mm, 76.2000 mm): Pad 2 [GND] of C16 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(155.8000 mm, 76.3750 mm): Pad 1 [GND] of J4_OUT1 on F.Cu
+    @(155.6000 mm, 86.6750 mm): Pad 1 [GND] of J3_IN1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(177.4375 mm, 86.4525 mm): Pad 2 [GND] of C1 on F.Cu
+    @(187.1800 mm, 89.9800 mm): PTH pad 10 [GND] of J2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(185.9100 mm, 89.9800 mm): PTH pad 9 [X0D39] of J2
+    @(227.4247 mm, 78.8248 mm): Pad 47 [X0D39] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(236.7000 mm, 84.1000 mm): Track [0V9] on F.Cu, length 1.6971 mm
+    @(233.9747 mm, 82.8253 mm): Pad 19 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(229.0995 mm, 77.9502 mm): Pad 42 [0V9] of U2 on F.Cu
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(230.6997 mm, 78.6660 mm): Pad 63 [0V9] of U2 on F.Cu
+    @(232.2999 mm, 77.9502 mm): Pad 34 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(232.2999 mm, 84.5000 mm): Pad 12 [0V9] of U2 on F.Cu
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(230.6997 mm, 83.7841 mm): Pad 61 [0V9] of U2 on F.Cu
+    @(229.0995 mm, 84.5000 mm): Pad 4 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+    @(227.4247 mm, 79.6249 mm): Pad 49 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.9747 mm, 82.8253 mm): Pad 19 [0V9] of U2 on F.Cu
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.4247 mm, 82.8253 mm): Pad 57 [0V9] of U2 on F.Cu
+    @(228.1406 mm, 81.2251 mm): Pad 64 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.2587 mm, 81.2251 mm): Pad 62 [0V9] of U2 on F.Cu
+    @(233.9747 mm, 79.6249 mm): Pad 27 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(220.3500 mm, 93.3850 mm): Pad 1 [0V9] of R9 on F.Cu
+    @(218.2625 mm, 93.4000 mm): Pad 1 [0V9] of C3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(229.6000 mm, 75.5000 mm): PTH pad 1 [0V9] of TP0V9+1
+    @(231.2000 mm, 73.8625 mm): Pad 1 [0V9] of C24 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(232.2999 mm, 77.9502 mm): Pad 34 [0V9] of U2 on F.Cu
+    @(233.9747 mm, 79.6249 mm): Pad 27 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(229.0995 mm, 84.5000 mm): Pad 4 [0V9] of U2 on F.Cu
+    @(227.4247 mm, 82.8253 mm): Pad 57 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(229.0995 mm, 77.9502 mm): Pad 42 [0V9] of U2 on F.Cu
+    @(227.4247 mm, 79.6249 mm): Pad 49 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.9000 mm, 73.8250 mm): Pad 1 [0V9] of C17 on F.Cu
+    @(229.6000 mm, 75.5000 mm): PTH pad 1 [0V9] of TP0V9+1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(229.0995 mm, 77.9502 mm): Pad 42 [0V9] of U2 on F.Cu
+    @(229.6000 mm, 75.5000 mm): PTH pad 1 [0V9] of TP0V9+1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(231.0000 mm, 88.8375 mm): Pad 1 [0V9] of C33 on F.Cu
+    @(233.8000 mm, 88.9375 mm): Pad 1 [0V9] of C34 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(224.0625 mm, 82.6000 mm): Pad 1 [0V9] of C21 on F.Cu
+    @(224.0625 mm, 85.5000 mm): Pad 1 [0V9] of C23 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(224.0625 mm, 82.6000 mm): Pad 1 [0V9] of C21 on F.Cu
+    @(224.0625 mm, 79.6000 mm): Pad 1 [0V9] of C19 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.9000 mm, 73.8250 mm): Pad 1 [0V9] of C17 on F.Cu
+    @(226.0625 mm, 76.2000 mm): Pad 1 [0V9] of C16 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.8000 mm, 88.9375 mm): Pad 1 [0V9] of C34 on F.Cu
+    @(236.8125 mm, 90.1000 mm): Pad 2 [0V9] of FB1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.4247 mm, 79.6249 mm): Pad 49 [0V9] of U2 on F.Cu
+    @(224.0625 mm, 79.6000 mm): Pad 1 [0V9] of C19 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(226.2000 mm, 94.5000 mm): Pad 6 [0V9] of U3 on F.Cu
+    @(225.7625 mm, 90.9000 mm): Pad 1 [0V9] of C12 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(235.6375 mm, 76.4000 mm): Pad 1 [0V9] of C25 on F.Cu
+    @(233.9747 mm, 79.6249 mm): Pad 27 [0V9] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(238.6375 mm, 79.0000 mm): Pad 1 [0V9] of C15 on F.Cu
+    @(235.6375 mm, 76.4000 mm): Pad 1 [0V9] of C25 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(226.2000 mm, 94.5000 mm): Pad 6 [0V9] of U3 on F.Cu
+    @(230.6350 mm, 94.8200 mm): Pad 2 [0V9] of L1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(232.2999 mm, 84.5000 mm): Pad 12 [0V9] of U2 on F.Cu
+    @(231.0000 mm, 88.8375 mm): Pad 1 [0V9] of C33 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(231.0000 mm, 88.8375 mm): Pad 1 [0V9] of C33 on F.Cu
+    @(225.7625 mm, 90.9000 mm): Pad 1 [0V9] of C12 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(220.3500 mm, 93.3850 mm): Pad 1 [0V9] of R9 on F.Cu
+    @(226.2000 mm, 94.5000 mm): Pad 6 [0V9] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 81.0500 mm): Pad 5 [I2S_BCLK] of U9 on F.Cu
+    @(190.5000 mm, 84.3000 mm): Pad 10 [I2S_BCLK] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 84.3000 mm): Pad 10 [I2S_BCLK] of U9 on F.Cu
+    @(232.7000 mm, 84.5000 mm): Pad 13 [I2S_BCLK] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 80.4000 mm): Pad 4 [I2S_RCLK] of U9 on F.Cu
+    @(190.5000 mm, 84.9500 mm): Pad 11 [I2S_RCLK] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 84.9500 mm): Pad 11 [I2S_RCLK] of U9 on F.Cu
+    @(231.4998 mm, 84.5000 mm): Pad 10 [I2S_RCLK] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(236.2375 mm, 87.7000 mm): Pad 1 [Net-(U2B-PLL_AVDD)] of C32 on F.Cu
+    @(238.9375 mm, 90.1000 mm): Pad 1 [Net-(U2B-PLL_AVDD)] of FB1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.9747 mm, 81.6252 mm): Pad 22 [Net-(U2B-PLL_AVDD)] of U2 on F.Cu
+    @(236.2375 mm, 87.7000 mm): Pad 1 [Net-(U2B-PLL_AVDD)] of C32 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 81.7000 mm): Pad 6 [I2S_MCLK] of U9 on F.Cu
+    @(190.5000 mm, 83.6500 mm): Pad 9 [I2S_MCLK] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(229.4995 mm, 77.9502 mm): Pad 41 [I2S_MCLK] of U2 on F.Cu
+    @(190.5000 mm, 81.7000 mm): Pad 6 [I2S_MCLK] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.2525 mm, 83.3800 mm): Pad A6 [D+] of J1 on F.Cu
+    @(255.5025 mm, 82.6300 mm): Pad B6 [D+] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(250.2750 mm, 81.0750 mm): Pad 1 [D+] of U6 on F.Cu
+    @(254.2525 mm, 83.3800 mm): Pad A6 [D+] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(250.2750 mm, 81.0750 mm): Pad 1 [D+] of U6 on F.Cu
+    @(233.9747 mm, 78.8248 mm): Pad 29 [D+] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(179.5600 mm, 89.9800 mm): PTH pad 4 [X0D30] of J2
+    @(227.4247 mm, 81.6252 mm): Pad 54 [X0D30] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(168.8000 mm, 85.7000 mm): PTH pad 1 [3V3] of TP3V3+1
+    @(170.6375 mm, 86.6525 mm): Pad 1 [3V3] of C38 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(200.2000 mm, 90.0375 mm): Pad 1 [3V3] of C5 on F.Cu
+    @(197.9375 mm, 91.0500 mm): Pad 5 [3V3] of U4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(194.3250 mm, 76.0750 mm): Pad 2 [3V3] of C41 on F.Cu
+    @(194.3250 mm, 73.5750 mm): Pad 2 [3V3] of C39 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(184.5125 mm, 78.9750 mm): Pad 1 [3V3] of R18 on F.Cu
+    @(184.5125 mm, 81.5750 mm): Pad 1 [3V3] of R8 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.6000 mm, 97.3625 mm): Pad 1 [3V3] of C29 on F.Cu
+    @(193.3000 mm, 97.3250 mm): Pad 1 [3V3] of C30 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(230.6997 mm, 77.9502 mm): Pad 38 [3V3] of U2 on F.Cu
+    @(233.9747 mm, 78.4248 mm): Pad 30 [3V3] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(215.1000 mm, 75.8000 mm): Pad 2 [3V3] of R30 on F.Cu
+    @(212.7500 mm, 79.3000 mm): Pad 1 [3V3] of R6 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.4247 mm, 80.8251 mm): Pad 52 [3V3] of U2 on F.Cu
+    @(230.6997 mm, 77.9502 mm): Pad 38 [3V3] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.9747 mm, 78.4248 mm): Pad 30 [3V3] of U2 on F.Cu
+    @(234.3000 mm, 73.8625 mm): Pad 1 [3V3] of C20 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(228.2000 mm, 88.3375 mm): Pad 1 [3V3] of C18 on F.Cu
+    @(230.6997 mm, 84.5000 mm): Pad 8 [3V3] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(230.6997 mm, 84.5000 mm): Pad 8 [3V3] of U2 on F.Cu
+    @(227.4247 mm, 80.8251 mm): Pad 52 [3V3] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(205.4900 mm, 74.4000 mm): Pad 8 [3V3] of U1 on F.Cu
+    @(200.2250 mm, 73.4750 mm): Pad 2 [3V3] of R19 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.6000 mm, 97.3625 mm): Pad 1 [3V3] of C29 on F.Cu
+    @(187.2150 mm, 93.2200 mm): PTH pad 10 [3V3] of J3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(233.9747 mm, 78.4248 mm): Pad 30 [3V3] of U2 on F.Cu
+    @(238.6375 mm, 81.6000 mm): Pad 1 [3V3] of C28 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(215.1000 mm, 75.8000 mm): Pad 2 [3V3] of R30 on F.Cu
+    @(220.8625 mm, 76.8000 mm): Pad 1 [3V3] of C22 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(200.2250 mm, 73.4750 mm): Pad 2 [3V3] of R19 on F.Cu
+    @(194.3250 mm, 73.5750 mm): Pad 2 [3V3] of C39 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 82.3500 mm): Pad 7 [3V3] of U9 on F.Cu
+    @(184.5125 mm, 81.5750 mm): Pad 1 [3V3] of R8 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(190.5000 mm, 82.3500 mm): Pad 7 [3V3] of U9 on F.Cu
+    @(194.3250 mm, 76.0750 mm): Pad 2 [3V3] of C41 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(205.9375 mm, 82.6000 mm): Pad 1 [3V3] of C11 on F.Cu
+    @(212.7500 mm, 79.3000 mm): Pad 1 [3V3] of R6 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(227.4247 mm, 80.8251 mm): Pad 52 [3V3] of U2 on F.Cu
+    @(220.8625 mm, 76.8000 mm): Pad 1 [3V3] of C22 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(197.9375 mm, 91.0500 mm): Pad 5 [3V3] of U4 on F.Cu
+    @(193.3000 mm, 97.3250 mm): Pad 1 [3V3] of C30 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(205.9375 mm, 82.6000 mm): Pad 1 [3V3] of C11 on F.Cu
+    @(205.4900 mm, 74.4000 mm): Pad 8 [3V3] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(168.8000 mm, 85.7000 mm): PTH pad 1 [3V3] of TP3V3+1
+    @(161.8700 mm, 90.6000 mm): PTH pad 11 [3V3] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(205.9375 mm, 82.6000 mm): Pad 1 [3V3] of C11 on F.Cu
+    @(200.2000 mm, 90.0375 mm): Pad 1 [3V3] of C5 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(184.5125 mm, 81.5750 mm): Pad 1 [3V3] of R8 on F.Cu
+    @(170.6375 mm, 86.6525 mm): Pad 1 [3V3] of C38 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(183.4050 mm, 93.2200 mm): PTH pad 7 [X1D22] of J3
+    @(230.2997 mm, 77.9502 mm): Pad 39 [X1D22] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(153.5000 mm, 89.6500 mm): Pad 1 [X1D18] of R1 on F.Cu
+    @(231.4998 mm, 77.9502 mm): Pad 36 [X1D18] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(212.0000 mm, 75.8000 mm): Pad 1 [HLD_RST_IO3] of R30 on F.Cu
+    @(206.7600 mm, 74.4000 mm): Pad 7 [HLD_RST_IO3] of U1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(228.2994 mm, 84.5000 mm): Pad 2 [HLD_RST_IO3] of U2 on F.Cu
+    @(212.0000 mm, 75.8000 mm): Pad 1 [HLD_RST_IO3] of R30 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(175.7500 mm, 89.9800 mm): PTH pad 1 [X0D00] of J2
+    @(229.8996 mm, 84.5000 mm): Pad 6 [X0D00] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(206.7600 mm, 80.2000 mm): Pad 2 [SI_IO1] of U1 on F.Cu
+    @(227.8993 mm, 84.5000 mm): Pad 1 [SI_IO1] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(160.6000 mm, 91.8700 mm): PTH pad 14 [XL_DN0] of U8
+    @(231.8998 mm, 77.9502 mm): Pad 35 [XL_DN0] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(161.8700 mm, 91.8700 mm): PTH pad 12 [XL_DN1] of U8
+    @(232.7000 mm, 77.9502 mm): Pad 33 [XL_DN1] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(177.0550 mm, 93.2200 mm): PTH pad 2 [X0D42] of J3
+    @(227.4247 mm, 79.2249 mm): Pad 48 [X0D42] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(183.3700 mm, 89.9800 mm): PTH pad 7 [X0D33] of J2
+    @(227.4247 mm, 83.2254 mm): Pad 58 [X0D33] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(180.8300 mm, 89.9800 mm): PTH pad 5 [X0D31] of J2
+    @(227.4247 mm, 82.0252 mm): Pad 55 [X0D31] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(177.0200 mm, 89.9800 mm): PTH pad 2 [X0D11] of J2
+    @(230.2997 mm, 84.5000 mm): Pad 7 [X0D11] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(179.5950 mm, 93.2200 mm): PTH pad 4 [X1D09] of J3
+    @(231.8998 mm, 84.5000 mm): Pad 11 [X1D09] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(184.6400 mm, 89.9800 mm): PTH pad 8 [X0D36] of J2
+    @(228.6995 mm, 77.9502 mm): Pad 43 [X0D36] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(180.8650 mm, 93.2200 mm): PTH pad 5 [X1D11] of J3
+    @(233.1000 mm, 84.5000 mm): Pad 14 [X1D11] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(214.5500 mm, 82.6000 mm): Pad 1 [Net-(U2A-X0D10)] of R7 on F.Cu
+    @(229.4995 mm, 84.5000 mm): Pad 5 [Net-(U2A-X0D10)] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(166.9500 mm, 91.8700 mm): PTH pad 4 [xSYS2_TCK] of U8
+    @(233.9747 mm, 80.8251 mm): Pad 24 [xSYS2_TCK] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(209.3000 mm, 74.4000 mm): Pad 5 [SI_IO0] of U1 on F.Cu
+    @(227.4247 mm, 83.6254 mm): Pad 59 [SI_IO0] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(165.6800 mm, 91.8700 mm): PTH pad 6 [xSYS2_TDO] of U8
+    @(233.9747 mm, 82.4253 mm): Pad 20 [xSYS2_TDO] of U2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(226.4500 mm, 96.4000 mm): Pad 1 [5V] of U3 on F.Cu
+    @(226.7000 mm, 97.3000 mm): Pad 10 [5V] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(225.7000 mm, 97.3000 mm): Pad 8 [5V] of U3 on F.Cu
+    @(226.7000 mm, 97.3000 mm): Pad 10 [5V] of U3 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(195.6625 mm, 92.9500 mm): Pad 3 [5V] of U4 on F.Cu
+    @(195.6625 mm, 91.0500 mm): Pad 1 [5V] of U4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(210.4625 mm, 93.1500 mm): Pad 1 [5V] of U5 on F.Cu
+    @(210.4625 mm, 95.0500 mm): Pad 3 [5V] of U5 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(193.5625 mm, 91.7000 mm): Pad 1 [5V] of C4 on F.Cu
+    @(195.6625 mm, 91.0500 mm): Pad 1 [5V] of U4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(247.8375 mm, 89.8000 mm): Pad 1 [5V] of C10 on F.Cu
+    @(247.8375 mm, 87.2000 mm): Pad 1 [5V] of C9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(198.6000 mm, 79.9750 mm): Pad 1 [5V] of C42 on F.Cu
+    @(198.5625 mm, 77.3750 mm): Pad 1 [5V] of C40 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(196.2250 mm, 81.0500 mm): Pad 24 [5V] of U9 on F.Cu
+    @(198.6000 mm, 79.9750 mm): Pad 1 [5V] of C42 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(210.4625 mm, 93.1500 mm): Pad 1 [5V] of U5 on F.Cu
+    @(213.1625 mm, 90.5000 mm): Pad 1 [5V] of C6 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(218.2625 mm, 95.9000 mm): Pad 1 [5V] of C2 on F.Cu
+    @(213.1625 mm, 90.5000 mm): Pad 1 [5V] of C6 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(225.7000 mm, 97.3000 mm): Pad 8 [5V] of U3 on F.Cu
+    @(218.2625 mm, 95.9000 mm): Pad 1 [5V] of C2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(185.9450 mm, 93.2200 mm): PTH pad 9 [5V] of J3
+    @(193.5625 mm, 91.7000 mm): Pad 1 [5V] of C4 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.9000 mm, 94.2375 mm): Pad 2 [5V] of F1 on F.Cu
+    @(247.8375 mm, 89.8000 mm): Pad 1 [5V] of C10 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(195.6625 mm, 91.0500 mm): Pad 1 [5V] of U4 on F.Cu
+    @(196.2250 mm, 81.0500 mm): Pad 24 [5V] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(195.6625 mm, 92.9500 mm): Pad 3 [5V] of U4 on F.Cu
+    @(210.4625 mm, 93.1500 mm): Pad 1 [5V] of U5 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(247.8375 mm, 87.2000 mm): Pad 1 [5V] of C9 on F.Cu
+    @(256.5500 mm, 73.1000 mm): Pad 1 [5V] of R28 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(226.4500 mm, 96.4000 mm): Pad 1 [5V] of U3 on F.Cu
+    @(247.8375 mm, 89.8000 mm): Pad 1 [5V] of C10 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(226.7000 mm, 94.5000 mm): Pad 5 [Net-(U3-FB)] of U3 on F.Cu
+    @(223.4500 mm, 93.3850 mm): Pad 2 [Net-(U3-FB)] of R9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(223.4500 mm, 93.3850 mm): Pad 2 [Net-(U3-FB)] of R9 on F.Cu
+    @(220.3500 mm, 95.9000 mm): Pad 1 [Net-(U3-FB)] of R17 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(226.4500 mm, 95.9000 mm): Pad 2 [Net-(U3-SW)] of U3 on F.Cu
+    @(230.6350 mm, 97.1900 mm): Pad 1 [Net-(U3-SW)] of L1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(173.8375 mm, 81.6000 mm): Pad 1 [Net-(J3_IN1-TIP)] of C49 on F.Cu
+    @(168.6000 mm, 81.6400 mm): Pad 2 [Net-(J3_IN1-TIP)] of R25 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(168.6000 mm, 81.6400 mm): Pad 2 [Net-(J3_IN1-TIP)] of R25 on F.Cu
+    @(164.9000 mm, 86.6750 mm): Pad 2 [Net-(J3_IN1-TIP)] of J3_IN1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(173.8375 mm, 78.9000 mm): Pad 1 [Net-(J3_IN1-RING)] of C50 on F.Cu
+    @(168.6000 mm, 78.8400 mm): Pad 2 [Net-(J3_IN1-RING)] of R27 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(168.6000 mm, 78.8400 mm): Pad 2 [Net-(J3_IN1-RING)] of R27 on F.Cu
+    @(157.5000 mm, 79.3250 mm): Pad 3 [Net-(J3_IN1-RING)] of J3_IN1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(187.3875 mm, 71.0000 mm): Pad 2 [Net-(J4_OUT1-RING)] of C47 on F.Cu
+    @(189.5125 mm, 71.0000 mm): Pad 1 [Net-(J4_OUT1-RING)] of R23 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(157.7000 mm, 69.0250 mm): Pad 3 [Net-(J4_OUT1-RING)] of J4_OUT1 on F.Cu
+    @(187.3875 mm, 71.0000 mm): Pad 2 [Net-(J4_OUT1-RING)] of C47 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(171.3750 mm, 76.4500 mm): Pad 1 [Net-(J4_OUT1-TIP)] of R21 on F.Cu
+    @(173.7125 mm, 73.6000 mm): Pad 2 [Net-(J4_OUT1-TIP)] of C45 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(165.1000 mm, 76.3750 mm): Pad 2 [Net-(J4_OUT1-TIP)] of J4_OUT1 on F.Cu
+    @(171.3750 mm, 76.4500 mm): Pad 1 [Net-(J4_OUT1-TIP)] of R21 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(248.2500 mm, 81.1000 mm): Pad 1 [Net-(J1-CC1)] of R3 on F.Cu
+    @(254.2525 mm, 83.8800 mm): Pad A5 [Net-(J1-CC1)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(245.2000 mm, 83.2500 mm): Pad 1 [Net-(J1-CC2)] of R4 on F.Cu
+    @(255.5025 mm, 82.1300 mm): Pad B5 [Net-(J1-CC2)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(208.0300 mm, 74.4000 mm): Pad 6 [SCLK] of U1 on F.Cu
+    @(211.4500 mm, 82.6000 mm): Pad 2 [SCLK] of R7 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(179.0500 mm, 78.9000 mm): Pad 1 [Net-(U9-V_{IN}R)] of R26 on F.Cu
+    @(196.2250 mm, 79.7500 mm): Pad 26 [Net-(U9-V_{IN}R)] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(176.9625 mm, 78.9000 mm): Pad 2 [Net-(C50-Pad2)] of C50 on F.Cu
+    @(182.1500 mm, 78.9000 mm): Pad 2 [Net-(C50-Pad2)] of R26 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(179.0500 mm, 81.6000 mm): Pad 1 [Net-(U9-V_{IN}L)] of R24 on F.Cu
+    @(196.2250 mm, 80.4000 mm): Pad 25 [Net-(U9-V_{IN}L)] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(176.9625 mm, 81.6000 mm): Pad 2 [Net-(C49-Pad2)] of C49 on F.Cu
+    @(182.1500 mm, 81.6000 mm): Pad 2 [Net-(C49-Pad2)] of R24 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(184.2625 mm, 71.0000 mm): Pad 1 [Net-(C47-Pad1)] of C47 on F.Cu
+    @(182.0625 mm, 71.0000 mm): Pad 1 [Net-(C47-Pad1)] of R22 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(187.4000 mm, 73.6000 mm): Pad 2 [Net-(C47-Pad1)] of C48 on F.Cu
+    @(184.2625 mm, 71.0000 mm): Pad 1 [Net-(C47-Pad1)] of C47 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(178.9625 mm, 71.0000 mm): Pad 2 [Net-(U9-V_{OUT}R+)] of R22 on F.Cu
+    @(196.2250 mm, 84.9500 mm): Pad 18 [Net-(U9-V_{OUT}R+)] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(174.3000 mm, 70.9000 mm): Pad 2 [Net-(C45-Pad1)] of C46 on F.Cu
+    @(176.8375 mm, 73.6000 mm): Pad 1 [Net-(C45-Pad1)] of C45 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(176.8375 mm, 73.6000 mm): Pad 1 [Net-(C45-Pad1)] of C45 on F.Cu
+    @(182.0625 mm, 73.6000 mm): Pad 1 [Net-(C45-Pad1)] of R20 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(178.9625 mm, 73.6000 mm): Pad 2 [Net-(U9-V_{OUT}L+)] of R20 on F.Cu
+    @(196.2250 mm, 83.6500 mm): Pad 20 [Net-(U9-V_{OUT}L+)] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(251.1500 mm, 73.1000 mm): Pad 2 [Net-(D1-A)] of D1 on F.Cu
+    @(253.4500 mm, 73.1000 mm): Pad 2 [Net-(D1-A)] of R28 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(158.0600 mm, 91.8700 mm): PTH pad 18 [XL_UP1] of U8
+    @(158.9500 mm, 86.8525 mm): Pad 2 [XL_UP1] of R2 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(153.5000 mm, 92.7500 mm): Pad 2 [XL_UP0] of R1 on F.Cu
+    @(159.3300 mm, 91.8700 mm): PTH pad 16 [XL_UP0] of U8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(251.2000 mm, 76.3000 mm): Pad 2 [Net-(D2-A)] of D2 on F.Cu
+    @(256.5500 mm, 75.8000 mm): Pad 2 [Net-(D2-A)] of R29 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(198.7000 mm, 82.7750 mm): Pad 1 [Net-(U9-V_{COM})] of C43 on F.Cu
+    @(196.2250 mm, 83.0000 mm): Pad 21 [Net-(U9-V_{COM})] of U9 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(198.7000 mm, 86.4750 mm): Pad 1 [Net-(U9-V_{COM})] of C44 on F.Cu
+    @(198.7000 mm, 82.7750 mm): Pad 1 [Net-(U9-V_{COM})] of C43 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.2525 mm, 84.3800 mm): Pad A4 [Net-(C8-Pad2)] of J1 on F.Cu
+    @(255.5025 mm, 84.6300 mm): Pad B9 [Net-(C8-Pad2)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(255.5025 mm, 81.6300 mm): Pad B4 [Net-(C8-Pad2)] of J1 on F.Cu
+    @(254.2525 mm, 81.8800 mm): Pad A9 [Net-(C8-Pad2)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.2525 mm, 81.8800 mm): Pad A9 [Net-(C8-Pad2)] of J1 on F.Cu
+    @(254.2525 mm, 84.3800 mm): Pad A4 [Net-(C8-Pad2)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.9000 mm, 89.9625 mm): Pad 1 [Net-(C8-Pad2)] of F1 on F.Cu
+    @(255.5025 mm, 84.6300 mm): Pad B9 [Net-(C8-Pad2)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(247.8375 mm, 84.5000 mm): Pad 2 [Net-(C8-Pad2)] of C8 on F.Cu
+    @(254.2525 mm, 84.3800 mm): Pad A4 [Net-(C8-Pad2)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.2525 mm, 79.5800 mm): Pad A1 [Net-(J1-SHIELD)] of J1 on F.Cu
+    @(254.2525 mm, 80.0800 mm): Pad A12 [Net-(J1-SHIELD)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.2525 mm, 86.1800 mm): Pad A1 [Net-(J1-SHIELD)] of J1 on F.Cu
+    @(254.2525 mm, 86.6800 mm): Pad A1 [Net-(J1-SHIELD)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.4275 mm, 78.6800 mm): PTH pad S1 [Net-(J1-SHIELD)] of J1
+    @(254.2525 mm, 79.5800 mm): Pad A1 [Net-(J1-SHIELD)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.2525 mm, 86.6800 mm): Pad A1 [Net-(J1-SHIELD)] of J1 on F.Cu
+    @(254.4275 mm, 87.5800 mm): PTH pad S1 [Net-(J1-SHIELD)] of J1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(255.5025 mm, 86.1300 mm): Pad B12 [Net-(J1-SHIELD)] of J1 on F.Cu
+    @(254.2525 mm, 86.1800 mm): Pad A1 [Net-(J1-SHIELD)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(254.2525 mm, 80.0800 mm): Pad A12 [Net-(J1-SHIELD)] of J1 on F.Cu
+    @(255.5025 mm, 80.1300 mm): Pad B1 [Net-(J1-SHIELD)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(257.6275 mm, 78.6800 mm): PTH pad S1 [Net-(J1-SHIELD)] of J1
+    @(255.5025 mm, 80.1300 mm): Pad B1 [Net-(J1-SHIELD)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(255.5025 mm, 86.1300 mm): Pad B12 [Net-(J1-SHIELD)] of J1 on F.Cu
+    @(257.6275 mm, 87.5800 mm): PTH pad S1 [Net-(J1-SHIELD)] of J1
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(255.5025 mm, 80.1300 mm): Pad B1 [Net-(J1-SHIELD)] of J1 on F.Cu
+    @(255.5025 mm, 86.1300 mm): Pad B12 [Net-(J1-SHIELD)] of J1 on F.Cu
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(208.0300 mm, 80.2000 mm): Pad 3 [WP_IO2] of U1 on F.Cu
+    @(227.4247 mm, 84.0255 mm): Pad 60 [WP_IO2] of U2 on F.Cu
+
+** Found 0 Footprint errors **
+
+** End of Report **

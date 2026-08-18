@@ -1,0 +1,12 @@
+### Missing 3D models - created on 2026-07-04 00:43
+### Printed by checking_3D_models plugin
+Board file: /Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/XMOS_with_audio_codec.kicad_pcb
+3D missing models written to:
+/Users/greglorincz/Documents/KiCad/Projects/XMOS with codec/XMOS_with_audio_codec_missing3Dmodels.txt
+-------
+('U1', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Package_SON.3dshapes/WSON-8-1EP_8x6mm_P1.27mm_EP3.4x4.3mm.step')
+('J1', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Connector_USB.3dshapes/USB_C_Receptacle_Amphenol_124019772112A.step')
+('Y2', '/Applications/KiCad/KiCad.app/Contents/SharedSupport/3dmodels/Oscillator.3dshapes/Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm.step')
+-------
+NUM of 3D missing models:3
+checked extensions ['.stp', '.step', '.stpZ']
