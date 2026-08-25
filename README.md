@@ -1,0 +1,1 @@
+XMOS XU316 based prototype board with audio CODEC. NOTE: THE DESIGN HAS NOT BEEN VERIFIED AS IN BUILT YET
