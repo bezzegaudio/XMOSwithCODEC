@@ -1,16 +1,11 @@
-# KiCad working files
-*.fp-info-cache
-*.kicad_prl
-*-bak
-*-backups/
+# Ignore everything
+*
 
-# Backup files
-*.bak
-*.bck
-*.old
-*.cadbackup
+# But descend into directories so whitelisted files below are reachable
+!*/
 
-# Autosave files
-*_autosave-*
-*.autosave
-
+# Whitelist
+!.gitignore
+!*.kicad_pro
+!*.kicad_sch
+!README.md
